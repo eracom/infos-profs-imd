@@ -8,18 +8,23 @@ permalink: index.html
 
 Informations pour les enseignant-es de filière IMD.
 
-Sujets à traiter:
+Sur la formation IMD:
 
-Filière IMD, infos pour enseignants (à créer):
+- [Dual et plein-temps](formation-imd)
+- Les cours CIE (classes duales)
+- [Noms des classes, comment les décrypter](noms-de-classes.html)
+- Plan de formation
+- [Formation IMD dans d'autres écoles](formation-imd)
 
-- [noms des classes, comment les décrypter](noms-de-classes.html).
+Sur les notes et le suivi des classes:
+
+- Cours EP et AP
 - les notes, comment les attribuer.
 - saisie dans ESA
-- plan de formation
-- Formation IMD dans d'autres écoles
-- Dual et plein-temps
-- Les cours CIE (classes duales)
 - Fiches de transmission
+
+Autres questions pratiques:
+
 - Studios (réservation)
 - Réservation du matériel
 - Formation continue des enseignant-es
