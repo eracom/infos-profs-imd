@@ -20,7 +20,7 @@ En Suisse romande et au Tessin:
 - Lausanne (eracom), formation duale, plein-temps et FPC.
 - Fribourg (Eikon), formation plein-temps uniquement.
 - Genève ([CFP Arts](https://cfparts.ch/metiers/interactive-media-design/)), formation plein-temps uniquement.
-- [La Chaux-de-Fonds (EAA)](https://www.eaa-la-chaux-de-fonds.ch/formation/interactive-media-designer), formation plein-temps uniquement.
+- La Chaux-de-Fonds [(EAA)](https://www.eaa-la-chaux-de-fonds.ch/formation/interactive-media-designer), formation plein-temps uniquement.
 - Lugano ([CSIA](https://www.csia.ch/im.html)), formation plein-temps uniquement.
 
 En Suisse alémanique: 
