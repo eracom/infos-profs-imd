@@ -8,7 +8,7 @@ title: Formation IMD
 Les élèves peuvent suivre trois parcours différents:
 
 - **Dual** (apprentissage en entreprise / 1 à 2 jours en école) : en 4 ans. ID412, 402, 492... Système dual, en signant un contrat d’apprentissage avec un employeur.
-- **École de métiers (plein-temps)**: en école plein-temps, en 4 ans. ID401, 491, 481, 471. Une partie des élèves a effectué auparavant une année de préapprentissage (à l'Eracom, parfois au CEPV ou Eikon).
+- **École de métiers (plein-temps)**: en école plein-temps, en 4 ans. ID411, 401, 491... Une partie des élèves a effectué auparavant une année de préapprentissage (à l'Eracom, parfois au CEPV ou Eikon).
 - **FPC (formation professionnelle condensée)**: en école plein-temps, en 3 ans. Ces élèves ont une autre formation préalable (CFC ou maturiét). ID311, 301, 391.
 
 ## Formation IMD dans d'autres écoles
