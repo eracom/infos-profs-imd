@@ -10,11 +10,11 @@ Informations pour les enseignant-es de filière IMD.
 
 Sur la formation IMD:
 
-- [Dual et plein-temps](formation-imd)
+- [Dual et plein-temps](formation-imd.md)
 - Les cours CIE (classes duales)
 - [Noms des classes, comment les décrypter](noms-de-classes.html)
 - Plan de formation
-- [Formation IMD dans d'autres écoles](formation-imd)
+- [Formation IMD dans d'autres écoles](formation-imd.md)
 
 Sur les notes et le suivi des classes:
 
