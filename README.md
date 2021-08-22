@@ -31,6 +31,7 @@ Autres questions pratiques:
 - Organisation, communication entre profs (Teams, quels canaux)
 - [Figma, logiciel de design](figma.md)
 
-Sur les questions pédagogies:
+Sur les questions pédagogiques:
 
 - [Ressources pédagogie](https://code.eracom-pedagogique.ch/pedagogie/)
+- [Design Briefs](https://designbriefs.ch/)
