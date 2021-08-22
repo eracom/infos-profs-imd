@@ -15,6 +15,8 @@ Nous avons également la possibilité de:
 - gérer les accès de chaque fichier.
 - créer des "libraries of styles and reusable components".
 
+![Figma Teams](img/figma-team-plan.png)
+
 Pour plus d'information:
 
 - La page [https://www.figma.com/education/](https://www.figma.com/education/)
@@ -27,3 +29,5 @@ Comme indiqué dans la vidéo, afin de mieux organiser les fichiers, vous pouvez
 
 - **Les enseignant-es** peuvent créer un Education Team dédié pour chacun de leurs cours.
 - **Les élèves** peuvent créer des Education Team pour organiser leurs projets, ou pour collaborer avec d'autres élèves sur un travail de groupe.
+
+![Exemple de Team Education](img/figma-sample-team.jpg)
