@@ -2,6 +2,7 @@ remote_theme: coursweb/jk-theme
 title: Infos IMD
 description: Informations pour enseignant-es IMD.
 lang: fr-FR
+markdown: GFM
 chapters:
  - title: Infos IMD
    url: https://code.eracom-pedagogique.ch/infos-profs-imd/
