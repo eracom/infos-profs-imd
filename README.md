@@ -29,5 +29,8 @@ Autres questions pratiques:
 - Réservation du matériel
 - Formation continue des enseignant-es
 - Organisation, communication entre profs (Teams, quels canaux)
-- [Conseils pour cours grand format](cours-grand-format.html)
 - [Figma, logiciel de design](figma.md)
+
+Sur les questions pédagogies:
+
+- [Ressources pédagogie](https://code.eracom-pedagogique.ch/pedagogie/)
