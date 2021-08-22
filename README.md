@@ -30,3 +30,4 @@ Autres questions pratiques:
 - Formation continue des enseignant-es
 - Organisation, communication entre profs (Teams, quels canaux)
 - [Conseils pour cours grand format](cours-grand-format.html)
+- [Figma, logiciel de design](figma.md)
