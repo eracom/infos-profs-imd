@@ -15,7 +15,11 @@ Nous avons également la possibilité de:
 - gérer les accès de chaque fichier.
 - créer des "libraries of styles and reusable components".
 
-![Figma Teams](img/figma-team-plan.png)
+Voici le lien d'invitation pour rejoindre la team Eracom:
+
+[https://www.figma.com/team_invite/redeem/6zKJtA44595eBUDPVSzjZe](https://www.figma.com/team_invite/redeem/6zKJtA44595eBUDPVSzjZe)
+
+Vous devrez créer un compte Figma, et valider votre statut d'enseignant-e ou élève.
 
 Pour plus d'information:
 
