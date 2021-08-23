@@ -19,7 +19,7 @@ Voici le lien d'invitation pour rejoindre la team Eracom:
 
 [https://www.figma.com/team_invite/redeem/6zKJtA44595eBUDPVSzjZe](https://www.figma.com/team_invite/redeem/6zKJtA44595eBUDPVSzjZe)
 
-Vous devrez créer un compte Figma, et valider votre statut d'enseignant-e ou élève.
+Vous devrez créer un compte Figma, et valider votre statut d'enseignant-e ou élève. Il n'est pas obligatoire d'utiliser l'adresse @eduvaud.ch (mais c'est conseillé).
 
 Pour plus d'information:
 
