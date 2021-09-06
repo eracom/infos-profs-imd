@@ -19,7 +19,7 @@ Les matières:
 - Semestre 1: CIE Photographie.
 - Semestre 2: CIE Frontend I.
 - Semestre 3: CIE Vidéo.
-- Semestre 5: CIE 3D/Animation.
+- Semestre 4: CIE 3D/Animation.
 - Semestre 6: CIE Frontend II.
 
 Voir [le plan de formation](https://code.eracom-pedagogique.ch/formation-imd-2021/cursus-dual/) pour plus de détails.
