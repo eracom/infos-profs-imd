@@ -5,7 +5,7 @@ title: Noms de classes
 
 # Les noms des classes, comment les décrypter.
 
-L'eracom pratique un système ingénieux de noms de classes qui permet d'identifier :
+L'eracom pratique un système de noms de classes qui permet d'identifier :
 
 - **La filière** (ID, GR, PA...)
 - **Premier chiffre: la durée de formation**. 4 indique une classe suivant le cursus sur 4 ans, 3 indique une classe à formation condensée sur 3 ans.

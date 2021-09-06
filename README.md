@@ -1,8 +1,3 @@
----
-layout: page
-title: Infos profs IMD
-permalink: index.html
----
 
 # Infos profs IMD 
 
