@@ -8,13 +8,6 @@ Sur la formation IMD:
 - [Noms des classes, comment les décrypter](noms-de-classes.html)
 - [Plan de formation](https://code.eracom-pedagogique.ch/formation-imd-2021/?vue=profs)
 
-Sur les notes et le suivi des classes:
-
-- Cours EP et AP
-- les notes, comment les attribuer.
-- saisie dans ESA
-- Fiches de transmission
-
 Sur les questions pédagogiques:
 
 - [Ressources pédagogie](https://code.eracom-pedagogique.ch/pedagogie/)

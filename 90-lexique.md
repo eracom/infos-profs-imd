@@ -28,3 +28,4 @@ permalink: lexique.html
 
 **TPI:** Travail pratique individuel. Partie importante de la procédure de qualification CFC. Réalisé sur 120 heures au cours du dernier semestre. A une pondération de 40%.
 
+**Viscom:** L'association d'employeurs et d'entrepreneurs de l'industrie graphique suisse. Association professionnelle qui coordonne la formation IMD. Supervise notamment: la révision du plan de formation, la préparation de l'examen de connaissances professionnelles, les cours interentreprise. Site web: https://www.viscom.ch/
