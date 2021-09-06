@@ -8,25 +8,25 @@ permalink: formation-imd.html
 
 La formation IMD à l'eracom peut s'effectuer en trois modes différents:
 
-### Formation duale
+### 1) Formation duale
 
 Durée: 4 ans.  
 Classes: ID412, 402, 492, 482.  
 Dans le système dual, les élèves signent un contrat d’apprentissage avec une entreprise formatrice. Ils suivent les cours en école 1 à 2 jours par semaine (2 jours les 2 premières années, ensuite 1 jour). Ils ont également des [cours interentreprise (CIE)](cours-cie.html), 5 fois durant la formation.    
 
-### Formation en école de métiers (plein-temps)
+### 2) Formation en école de métiers (plein-temps)
 
 Durée: 4 ans.  
 Classes: ID411, 401, 491, 481.  
 Une partie des élèves a effectué auparavant une année de préapprentissage (à l'Eracom, parfois au CEPV ou Eikon).
 
-### Formation professionnelle condensée (FPC)
+### 3) Formation professionnelle condensée (FPC)
 
 Durée: 3 ans.  
 Classes: ID311, 301, 391.  
 Ces élèves ont une autre formation préalable (CFC ou maturité). 
 
-## Formation IMD dans d'autres écoles
+## La formation IMD en Suisse
 
 La formation IMD est donnée dans huit écoles en Suisse:
 
