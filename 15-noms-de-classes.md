@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Noms de classes
+permalink: noms-de-classes.html
 ---
 
 # Les noms des classes, comment les décrypter.

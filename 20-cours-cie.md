@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Les cours CIE (classes duales)
+permalink: cours-cie.html
 ---
 
 Dans la formation IMD, les élèves suivant le **cursus Dual** fréquentent trois lieux de formation:

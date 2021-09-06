@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Formation des enseignant-es
+permalink: formation.html
 ---
 
 Selon la loi sur l'enseignement professionnel, vous avez droit annuellement à deux jours de formation continue, sur votre temps d'enseignement. La direction peut même vous accorder jusqu'à cinq jours.
