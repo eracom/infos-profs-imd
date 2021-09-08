@@ -3,8 +3,8 @@ Ce micro-site rassemble des informations pour les enseignant-es de filière IMD.
 
 Sur la formation IMD:
 
-- [Dual et plein-temps](10-formation-imd.md)
-- [Les cours CIE (classes duales)]()
+- [Dual et plein-temps](formation-imd.html)
+- [Les cours CIE (classes duales)](cours-cie.html)
 - [Noms des classes, comment les décrypter](noms-de-classes.html)
 - [Plan de formation](https://code.eracom-pedagogique.ch/formation-imd-2021/?vue=profs)
 
