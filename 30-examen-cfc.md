@@ -1,19 +1,17 @@
 ---
 layout: page
-title: examen CFC
+title: Examen CFC
 permalink: examen-cfc.html
 ---
 
-Voici des informations sur la manière dont se déroule l'examen de qualification CFC.
-
 La procédure de qualification comporte deux éléments:
 
-- **le travail pratique individuel (TPI)**
-- **l’examen de connaissances professionnelles (CP ou ConPro)**
+- le travail pratique individuel (TPI)
+- l’examen de connaissances professionnelles (CP ou ConPro)
 
 ### Travail pratique individuel (TPI)
 
-Le **travail pratique individuel (TPI)** se fait sur une durée de 80 à 120 heures (ordonnance, §16 a), à partir du mois de mai de la dernière année. En école de métiers, le sujet est imposé, mais l’élève a le choix entre différents types de médias. En dual, l’élève définit le sujet avec son formateur. 
+Le **travail pratique individuel** (TPI) se fait sur une durée de 80 à 120 heures (ordonnance, §16 a), à partir du mois de mai de la dernière année. En école de métiers, le sujet est imposé, mais l’élève a le choix entre différents types de médias. En dual, l’élève définit le sujet avec son formateur. 
 
 Pour les élèves en formation plein-temps, le sujet est identique. Il est élaboré par un groupe de travail comprenant des enseignant·es des quatre écoles de Suisse romande (Fribourg, Genève, La Chaux-de-Fonds, Lausanne). 
 
@@ -31,4 +29,4 @@ L’examen de **connaissances professionnelles** porte sur toutes les branches E
 
 ### Calcul des notes
 
-Le calcul des notes est détaillé dans les «Dispositions d’exécution» (p. 4), sur le site [imd-tpi.ch](https://www.imd-tpi.ch/), dans Documentation. Ce site informe également sur les dates, et fournit les grilles d'évaluation.
+Le calcul des notes est détaillé dans les «Dispositions d’exécution» (p. 4), sur le site [imd-tpi.ch](https://www.imd-tpi.ch/), dans la section [Documentation](https://www.imd-tpi.ch/documentations/). Ce site informe également sur les dates, et fournit les grilles d'évaluation.
