@@ -13,7 +13,7 @@ La procédure de qualification comporte deux éléments:
 
 Le **travail pratique individuel** (TPI) se fait sur une durée de 80 à 120 heures (ordonnance, §16 a), à partir du mois de mai de la dernière année. En école de métiers, le sujet est imposé, mais l’élève a le choix entre différents types de médias. En dual, l’élève définit le sujet avec son formateur. 
 
-Pour les élèves en formation plein-temps, le sujet est identique. Il est élaboré par un groupe de travail comprenant des enseignant·es des quatre écoles de Suisse romande (Fribourg, Genève, La Chaux-de-Fonds, Lausanne). 
+Pour les élèves en formation plein-temps, le sujet est identique. Il est élaboré par la **Comission romande d'examen**, comprenant des enseignant·es des quatre écoles de Suisse romande (Fribourg, Genève, La Chaux-de-Fonds, Lausanne). 
 
 Pendant la durée de ce travail, l’élève est accompagné·e par un·e supérieur·e de candidat·e (un·e de ses enseignant·es ID de l’eracom) qui va aussi évaluer la réalisation du travail. Deux expert·es externes évaluent la documentation, la présentation orale, et l’entretien professionnel.
 
@@ -25,8 +25,8 @@ Des exemples de données TPI des années précédentes se trouvent dans Teams, s
 
 ### Examen de connaissances professionnelles
 
-L’examen de **connaissances professionnelles** porte sur toutes les branches EP. La durée est de 4 heures (ordonnance, §16 b). C’est un examen ecrit en trois parties, sur une journée. Il a lieu en fin de dernier semestre (mi-mai ou début juin). Il est identique pour les élèves IMD dans toute la Suisse. 
+L’examen de **connaissances professionnelles** porte sur toutes les branches EP. La durée est de 4 heures (ordonnance, §16 b). C’est un examen ecrit, effectué en trois parties, sur une journée. Il a lieu en fin de dernier semestre (mi-mai ou début juin). Il est identique pour les élèves IMD dans toute la Suisse. 
 
-### Calcul des notes
+### Calcul des notes et critères d'évaluation
 
 Le calcul des notes est détaillé dans les «Dispositions d’exécution» (p. 4), sur le site [imd-tpi.ch](https://www.imd-tpi.ch/), dans la section [Documentation](https://www.imd-tpi.ch/documentations/). Ce site informe également sur les dates, et fournit les grilles d'évaluation.
