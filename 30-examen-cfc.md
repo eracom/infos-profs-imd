@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Logiciel: examen CFC
+title: examen CFC
 permalink: examen-cfc.html
 ---
 

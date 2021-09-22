@@ -18,13 +18,16 @@ Dans le système dual, les élèves signent un contrat d’apprentissage avec un
 
 Durée: 4 ans.  
 Classes: ID411, 401, 491, 481.  
-Une partie des élèves a effectué auparavant une année de préapprentissage (à l'Eracom, parfois au CEPV ou Eikon).
+Une partie des élèves a effectué auparavant une année de préapprentissage (à l'Eracom, parfois au CEPV ou Eikon).  
+Ces élèves suivent une demi-journée de cours de culture générale (ECG).
+Une partie des élèves effectue la [maturité professionnelle intégrée](https://eracom.ch/formation/maturite-professionnelle-integree-arts-visuels-et-arts-appliques/), un jour et demi de cours y est dédié (lundi et mardi).
 
 ### 3) Formation professionnelle condensée (FPC)
 
 Durée: 3 ans.  
 Classes: ID311, 301, 391.  
-Ces élèves ont une autre formation préalable (CFC ou maturité). 
+Ces élèves ont une autre formation préalable (CFC ou maturité).  
+Ils n'ont pas de cours de culture générale (ECG), cela permet de compacter le programme sur 3 années.
 
 ## La formation IMD en Suisse
 
