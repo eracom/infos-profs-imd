@@ -15,7 +15,7 @@ Le **travail pratique individuel** (TPI) se fait sur une durée de 80 à 120 heu
 
 Pour les élèves en formation plein-temps, le sujet est identique. Il est élaboré par la **Comission romande d'examen**, comprenant des enseignant·es des quatre écoles de Suisse romande (Fribourg, Genève, La Chaux-de-Fonds, Lausanne). 
 
-Pendant la durée de ce travail, l’élève est accompagné·e par un·e supérieur·e de candidat·e (un·e de ses enseignant·es ID de l’eracom) qui va aussi évaluer la réalisation du travail. Deux expert·es externes évaluent la documentation, la présentation orale, et l’entretien professionnel.
+Pendant la durée de ce travail, l’élève est accompagné·e par un·e **supérieur·e de candidat·e** (un·e de ses enseignant·es ID de l’eracom) qui va aussi évaluer la réalisation du travail. Deux expert·es externes évaluent la documentation, la présentation orale, et l’entretien professionnel.
 
 Les critères d’évaluation sont définis pour l’ensemble de la Suisse (par l’office paritaire de formation, PBS).
 
