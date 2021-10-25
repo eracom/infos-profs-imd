@@ -3,6 +3,7 @@ title: Infos IMD
 description: Informations pour enseignant-es IMD.
 lang: fr-FR
 markdown: GFM
+robots: noindex, nofollow
 chapters:
  - title: Infos IMD
    url: https://code.eracom-pedagogique.ch/infos-profs-imd/
