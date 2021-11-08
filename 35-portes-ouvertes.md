@@ -10,9 +10,9 @@ Pour la présentation de la filière ID, nous prévoyons d'utiliser 3 salles, to
 
 Nous proposons de regrouper dans ces salles des travaux choisis par thématiques:
 
-- **Salle 401**: Marketing, recherche, créativité, création d'images, photographie.
-- **Salle 405**: Web, design d'interfaces (p.ex. travaux web du Lab, maquettes imprimées).
-- **Salle 407**: 3d, vidéo, animation, motion design.
+- **Salle 401**: Communication, marketing, recherche, créativité, création d'images, photographie.
+- **Salle 405**: Web, design d'interfaces, programmation.
+- **Salle 407**: Audiovisuel, 3d, vidéo, animation, son, motion design.
 
 [Ce tableau](https://eduvaud.sharepoint.com/:x:/s/ERACOM_ID_Teams/Ec-8CTpHP6VOlfVoL2cEcNUBbk5pRNltbitJCpa1Nmk2wA?e=lnUgru) (document Teams) sert à organiser les projets qui seront montrés dans les salles.
 
