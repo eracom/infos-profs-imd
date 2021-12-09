@@ -10,7 +10,7 @@ Dans la formation IMD, les élèves suivant le **cursus Dual** fréquentent troi
 - **La formation en entreprise**: le reste du temps.
 - **Les cours interentreprises**: cinq cours de 4 jours, répartis sur la formation.
 
-Les **cours interentreprise** (CIE) sont donnés par des instructeurs·rices mandaté·es par Viscom (Association professionnelle qui coordonne la formation IMD). Pour les apprentis Eracom, ils se déroulent dans les locaux du CPNV à Yverdon.
+Les **cours interentreprise** (CIE) sont donnés par des instructeurs·rices mandaté·es par Viscom (Association professionnelle qui coordonne la formation IMD). Ils se déroulent dans les locaux du CPNV à Yverdon.
 
 Les contenus des CIE sont définis dans le Plan de formation.
 
