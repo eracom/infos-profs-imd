@@ -58,12 +58,12 @@ Heures d’ouverture: voir premier étage, salle 102.
 ### Informatique, réseau
 
 Service informatique: salle 406  
-FAQ informatique: https://eracom.ch/faq/   
-Accès serveur de fichiers local de l’école (“Hermès”): afp://hermes/ ou https://fichiers.edu-vaud.ch/
+FAQ informatique: [https://eracom.ch/faq/](https://eracom.ch/faq/)   
+Accès serveur de fichiers local de l’école (“Hermès”): afp://hermes/ ou [https://fichiers.edu-vaud.ch/](https://fichiers.edu-vaud.ch/)
 
 Outils en ligne:  
-Github: https://github.com/eracom  
-Compte Vimeo: https://vimeo.com/eracom  
+Github: [https://github.com/eracom](https://github.com/eracom)  
+Compte Vimeo: [https://vimeo.com/eracom](https://vimeo.com/eracom)  
 Réseaux sociaux: FB, Instagram… (pas de gestion active)
 
 
@@ -74,4 +74,4 @@ Des imprimantes noir-blanc se situent à tous les étages (système Follow-Me).
 Des imprimantes couleur se situent au 3e et 4e.  
 Choix de papier spéciaux: un catalogue d’échantillons est disponible au secrétariat.  
 Pour grandes quantités: au rez, salle 004, à côté de la salle des maîtres.  
-Pour installer le pilote d’impresson Follow-Me / PaperClip, voir la documentation du service informatique: https://eracom.ch/faq/
+Pour installer le pilote d’impresson Follow-Me / PaperClip, voir la documentation du service informatique: [https://eracom.ch/faq/](https://eracom.ch/faq/)
