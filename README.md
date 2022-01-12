@@ -8,7 +8,7 @@ Ce micro-site rassemble des informations pour les enseignant-es de filière IMD.
 - La brochure “Mon école enseigne+” (24p, PDF sur l’Extranet)
 - La brochure “Mon école informe+” ([PDF](https://eracom.ch/liens-et-documents/))
 - Règlement interne (16p, [PDF](https://eracom.ch/liens-et-documents/))
-- Infos pour élèves filière ID
+- [Infos pour élèves filière ID](https://eracom.ch/informations-eleves-id/)
 
 ## L'essentiel pour personnes rejoignant l'équipe enseignante
 
