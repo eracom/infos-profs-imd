@@ -1,8 +1,8 @@
----
-layout: page
-title: Portes ouvertes
-permalink: portes-ouvertes.html
----
+# ---
+# layout: page
+# title: Portes ouvertes
+# permalink: portes-ouvertes.html
+# ---
 
 Les portes ouvertes de l'année 2021 se dérouleront le **vendredi 3 décembre**, de 16h à 21h.
 
