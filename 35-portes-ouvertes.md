@@ -1,9 +1,3 @@
-# ---
-# layout: page
-# title: Portes ouvertes
-# permalink: portes-ouvertes.html
-# ---
-
 Les portes ouvertes de l'année 2021 se dérouleront le **vendredi 3 décembre**, de 16h à 21h.
 
 Pour la présentation de la filière ID, nous prévoyons d'utiliser 3 salles, toutes situées au 4e étage: les salles 401, 405 et 407.
