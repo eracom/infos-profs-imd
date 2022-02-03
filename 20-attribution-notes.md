@@ -4,6 +4,15 @@ title: Attribution de notes
 permalink: attribution-notes.html
 ---
 
+## Saisie et transmission des notes
+
+Les notes, en fin de semestre, doivent être transmises par deux moyens:
+
+1. Saisies par l'enseignant·e dans la **plateforme ESA**: [https://www.portail.vd.ch/iam/accueil/](https://www.portail.vd.ch/iam/accueil/). Important: il faut toujours valider les notes à la date de rendu des notes – sinon cela bloque la réalisation des bulletins. [Voir un tutoriel vidéo](https://eduvaud.sharepoint.com/:v:/s/ERACOM_ID_Teams/EQGdCxWTOQRNvrYsyPJOsfEBGpnwrd4X67fHSHrg2LQiag?e=hocRqa).
+2. Transmises au MP dans le formulaire Excel, [disponible dans Teams](https://eduvaud.sharepoint.com/:f:/s/ERACOM_ID_Teams/EkgL1l4_A0BFpXBtUq9V9BABZh235j2x24zwoWrnU76Abg?e=a9B504)
+
+Délai de saisie et de transmission des notes : **vendredi 17 juin 2022**.
+
 ## Quantité de notes à donner
 
 Le nombre de notes minimum à attribuer durant un semestre, pour chaque cours, est de 3.
@@ -15,15 +24,6 @@ ID301 / 401 / 402
 ID311 / 411 / 412
 
 Une exception: pour la classe FPC de 2e année, les cours *Développement d'interfaces 2 et 3* étant au même semestre, les enseignant·es doivent s'accorder pour donner le même nombre de notes.
-
-## Saisie et transmission des notes
-
-Les notes, en fin de semestre, doivent être transmises par deux moyens:
-
-1. Saisies par l'enseignant·e dans la **plateforme ESA**: [https://www.portail.vd.ch/iam/accueil/](https://www.portail.vd.ch/iam/accueil/). Important: il faut toujours valider les notes à la date de rendu des notes – sinon cela bloque la réalisation des bulletins. [Voir un tutoriel vidéo](https://eduvaud.sharepoint.com/:v:/s/ERACOM_ID_Teams/EQGdCxWTOQRNvrYsyPJOsfEBGpnwrd4X67fHSHrg2LQiag?e=hocRqa).
-2. Transmises au MP dans le formulaire Excel ([disponible dans Teams](https://eduvaud.sharepoint.com/:f:/s/ERACOM_ID_Teams/EkgL1l4_A0BFpXBtUq9V9BABZh235j2x24zwoWrnU76Abg?e=a9B504)
-
-Délai de saisie et de transmission des notes du 2e semestre : **vendredi 17 juin 2022**.
 
 ## Répartition des notes sur le semestre
 
