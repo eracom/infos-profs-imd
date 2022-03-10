@@ -46,32 +46,34 @@ Avec les élèves: email et la plateforme Teams.
 **Doyenne:** Michaela Varin. Bureau 010. Tel 021 316 01 13.
 **Maître principal:** Manuel Schmalstieg. Bureau 200. Tel 076 436 46 79.
 
+**Économat** (salle 208). Ouvert uniquement durant la pause du matin, 9h45 – 10h15.  
 **Salle du corps enseignant** (rez, 006): machines à café, frigo, micro-ondes.  
-**Salle de travail enseignants** (filières ID, GR): 4e étage (salle 403)  
-**Bibliothèque:** se trouve à l’Epsic, au rez. Horaire: 7h45–16h45. Achat de livres: remplir une fiche de commande de matériel (voir extranet), faire approuver par la doyenne.  
+**Salle de travail enseignants** (filières ID, GR): 4e étage (salle 403).  
+**Bibliothèque:** se trouve à l’Epsic, au rez. Horaire: 7h45–16h45. Achat de livres: remplir une fiche de commande de matériel (voir [extranet](https://eracom.ch/extranet/)), faire approuver par la doyenne.  
 **Fablab:** pour accéder à des imprimantes 3D, découpeuses laser: le Fablab HEP Vaud est à proximité de l’Eracom (Rue de Sébeillon 1).
 
-**Service santé, médiation** 
-Nous avons une équipe de médiation scolaire, pour soutenir les élèves en difficulté. Le service de médiation offre un accompagnement aux élèves en difficulté, en rupture de liens ou vivant des conflits. Il peut aussi être sollicité par un-e enseignant-e en proie à des difficultés relationnelles avec un-e élève ou un groupe d’élèves.
-Heures d’ouverture: voir premier étage, salle 102.
+**Service santé, médiation** (salle 102)
+Nous avons une équipe de médiation scolaire, pour soutenir les élèves en difficulté. Le service de médiation offre un accompagnement aux élèves en difficulté, en rupture de liens ou vivant des conflits. Il peut aussi être sollicité par un-e enseignant-e en proie à des difficultés relationnelles avec un-e élève ou un groupe d’élèves.  
+Heures d’ouverture: voir salle 102.
+
+### Impressions
+
+Des imprimantes noir-blanc se situent à tous les étages (système Follow-Me).  
+Des imprimantes couleur se situent au 3e et 4e.  
+Choix de papier spéciaux: un catalogue d’échantillons est disponible au secrétariat.  
+Pour grandes quantités: au rez, salle 004, à côté de la salle des maîtres.  
+
+Pour installer le pilote d’impression Follow-Me / PaperClip, voir la documentation du service informatique: [https://eracom.ch/faq/](https://eracom.ch/faq/)
+
 
 ### Informatique, réseau
 
 Service informatique: salle 406  
 FAQ informatique: [https://eracom.ch/faq/](https://eracom.ch/faq/)   
-Accès serveur de fichiers local de l’école (“Hermès”): afp://hermes/ ou [https://fichiers.edu-vaud.ch/](https://fichiers.edu-vaud.ch/)
+Accès serveur de fichiers local de l’école 
+Ancien serveur (“Hermès”): afp://hermes/ ou [https://fichiers.edu-vaud.ch/](https://fichiers.edu-vaud.ch/)
 
 Outils en ligne:  
 Github: [https://github.com/eracom](https://github.com/eracom)  
 Compte Vimeo: [https://vimeo.com/eracom](https://vimeo.com/eracom)  
-Réseaux sociaux: FB, Instagram… (pas de gestion active)
 
-
-### Impressions
-
-Installer client "PCClient" (voir FAQ informatique)  
-Des imprimantes noir-blanc se situent à tous les étages (système Follow-Me).  
-Des imprimantes couleur se situent au 3e et 4e.  
-Choix de papier spéciaux: un catalogue d’échantillons est disponible au secrétariat.  
-Pour grandes quantités: au rez, salle 004, à côté de la salle des maîtres.  
-Pour installer le pilote d’impresson Follow-Me / PaperClip, voir la documentation du service informatique: [https://eracom.ch/faq/](https://eracom.ch/faq/)
