@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Logiciel: Figma
+title: Logiciel – Figma
 ---
 
 Figma est un logiciel de conception web qui utilisé notemment dans les cours de design d'interfaces.
