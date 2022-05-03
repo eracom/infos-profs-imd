@@ -15,7 +15,7 @@ Nous avons également la possibilité de:
 - gérer les accès de chaque fichier.
 - créer des "libraries of styles and reusable components".
 
-Voici le lien d'invitation pour rejoindre la team Eracom:
+Voici le lien d'invitation pour rejoindre la team générale Eracom:
 
 [https://www.figma.com/team_invite/redeem/6zKJtA44595eBUDPVSzjZe](https://www.figma.com/team_invite/redeem/6zKJtA44595eBUDPVSzjZe)
 
