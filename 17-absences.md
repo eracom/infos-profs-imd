@@ -14,10 +14,12 @@ Dans Hyperplanning, voici comment procéder lors du contrôle des présences:
 
 **Important:** faites la saisie le jour même, idéalement en tout début de cours. Vous ne pourrez plus faire de modifications après 24h.
 
-La gestion des absences et arrivées tardives figure dans le règlement de l'école, Art. 32 à 37. Vous le trouvez sous: [https://eracom.ch/liens-et-documents/](https://eracom.ch/liens-et-documents/) (Règlement interne).
+Vous n'aurez pas accès à l'historique des présences, il est donc conseillé de faire une capture d'écran après la saisie. Cela vous donnera un relevé dans la durée.
+
+La gestion des absences et arrivées tardives est détaillée dans le règlement de l'école, Art. 32 à 37. Vous le trouvez sous: [https://eracom.ch/liens-et-documents/](https://eracom.ch/liens-et-documents/) (Règlement interne).
 
 **En résumé:**
 
-- Les justificatifs en cas d'absence ne sont pas remis à l'enseignant·e, mais au secrétariat. Vous indiquez simplement si l'élève est absent, c'est le secrétariat qui corrigera dans un délai de 7 jours.
+- Les justificatifs en cas d'absence ne sont pas remis à l'enseignant·e, mais au secrétariat. Vous indiquez simplement si l'élève est absent, c'est le secrétariat qui corrigera le cas échéant dans un délai de 7 jours.
 - Toute arrivée tardive de **plus de quinze minutes** est considérée comme une période d’absence et ne peut être justifiée sauf si le retard est lié aux transports publics. Dans ce cas, l’élève doit fournir au secrétariat le justificatif d’absence accompagné d’une preuve tangible.
 - L’élève absent·e aux cours doit prendre les mesures nécessaires, auprès de ses camarades, pour se tenir informé·e du travail accompli, rattraper la matière et effectuer les devoirs. Iel s’organise avec ses enseignant·es pour rattraper les tests manqués et les travaux non rendus.
