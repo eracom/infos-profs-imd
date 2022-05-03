@@ -2,7 +2,7 @@ remote_theme: coursweb/jk-theme
 title: Infos IMD
 description: Informations pour enseignant-es IMD.
 lang: fr-FR
-markdown: GFM
+# markdown: GFM
 robots: noindex, nofollow
 chapters:
  - title: Infos IMD
