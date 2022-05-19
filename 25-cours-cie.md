@@ -22,4 +22,4 @@ Les matières:
 - Semestre 4: CIE 3D/Animation.
 - Semestre 6: CIE Frontend II.
 
-Voir [le plan de formation](https://code.eracom-pedagogique.ch/formation-imd-2021/cursus-dual/) pour plus de détails.
+Voir [le plan de formation](https://code.eracom-pedagogique.ch/formation-imd/cursus-dual/?vue=profs) pour plus de détails.

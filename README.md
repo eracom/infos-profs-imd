@@ -23,7 +23,7 @@ Ce micro-site rassemble des informations pour les enseignant-es de filière IMD.
 
 ## Plan de formation
 
-- [Plan de formation ID Eracom](https://code.eracom-pedagogique.ch/formation-imd-2021/?vue=profs)
+- [Plan de formation ID Eracom](https://code.eracom-pedagogique.ch/formation-imd/?vue=profs)
 - [Documents officiels de la formation IMD](https://github.com/eracom/documents-formation-imd) (au niveau fédéral)
 
 ## Sur les questions pédagogiques
