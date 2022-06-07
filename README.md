@@ -23,10 +23,10 @@ Ce micro-site rassemble des informations pour les enseignant-es de filière IMD.
 
 ## Plan de formation
 
-- [Plan de formation ID Eracom](https://code.eracom-pedagogique.ch/formation-imd/?vue=profs)
-- [Documents officiels de la formation IMD](https://github.com/eracom/documents-formation-imd) (au niveau fédéral)
+- 📗 [Plan de formation ID Eracom](https://code.eracom-pedagogique.ch/formation-imd/?vue=profs)
+- 📘 [Documents officiels de la formation IMD](https://github.com/eracom/documents-formation-imd) (au niveau fédéral)
 
 ## Sur les questions pédagogiques
 
-- [Ressources pédagogie](https://code.eracom-pedagogique.ch/pedagogie/)
-- [Design Briefs](https://designbriefs.ch/) (collection de briefs pour enseignement du design)
+- ➡️ [Ressources pédagogie](https://code.eracom-pedagogique.ch/pedagogie/)
+- ➡️ [Design Briefs](https://designbriefs.ch/) (collection de briefs pour enseignement du design)
