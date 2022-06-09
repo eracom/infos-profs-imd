@@ -8,8 +8,13 @@ permalink: attribution-notes.html
 
 Les notes, en fin de semestre, doivent être transmises par deux moyens:
 
-1. Saisies par l'enseignant·e dans la **plateforme ESA**: 🖥 [https://www.portail.vd.ch/iam/accueil/](https://www.portail.vd.ch/iam/accueil/). Important: il faut toujours *valider* les notes saisies – sinon cela bloque la réalisation des bulletins.
+1. Saisies par l'enseignant·e dans la **plateforme ESA**: 🖥 [https://www.portail.vd.ch/iam/accueil/](https://www.portail.vd.ch/iam/accueil/).
 2. Transmises au MP dans le formulaire Excel, 📁 [disponible dans Teams](https://eduvaud.sharepoint.com/:f:/s/ERACOM_ID_Teams/EkgL1l4_A0BFpXBtUq9V9BABZh235j2x24zwoWrnU76Abg?e=a9B504)
+
+### Points importants pour la saisie dans ESA
+
+- Veillez à toujours ***valider*** les notes saisies. Si elles ne sont pas validées, cela bloque l'impressions des bulletins.
+- Il ne faut pas saisir la moyenne du semestre, mais **chaque évaluation** (3 par cours) à la date que vous avez fixé pour l'évalaution.
 
 Délai de saisie et de transmission des notes : **vendredi 17 juin 2022**.
 
