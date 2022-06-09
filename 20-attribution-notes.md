@@ -37,7 +37,7 @@ Veillez à bien renseigner les champs suivants:
 
 ![Nommage des fichiers](img/champs-excel-notes.png)
 
-Veillez à renommer le fichier, selon le modèle suivant. Vous pouvez abréger le nom du cours comme bon vous semble, mais soyez rigoureux pour **l'acronyme** et votre nom.
+Veillez à **renommer le fichier selon le modèle suivant**. Vous pouvez abréger le nom du cours comme bon vous semble, mais soyez rigoureux pour **l'acronyme** et votre nom.
 
 ![Nommage des fichiers](img/Nommage-des-fichiers.png)
 
