@@ -27,6 +27,22 @@ Cette vidéo montre comment fonctionne la saisie dans ESA:
 **EP** : école professionelle = les classes duales.  
 **EM** : école des métiers = les classes plein-temps.
 
+### Points importants pour les fiches Excel
+
+Les fichiers Excel sont [disponibles dans Teams](https://eduvaud.sharepoint.com/:f:/s/ERACOM_ID_Teams/EkgL1l4_A0BFpXBtUq9V9BABZh235j2x24zwoWrnU76Abg?e=a9B504). Vous trouvez un modèle pour chaque classe, vous n'avez donc pas à saisir les noms des élèves.
+
+Veillez à bien renseigner les trois champs suivants:
+
+- Votre nom
+- Le nom du cours
+- L'acronyme du cours (important!). Vous le trouvez [dans la fiche de votre cours](https://code.eracom-pedagogique.ch/formation-imd/?vue=profs).
+
+![Nommage des fichiers](img/champs-excel-notes.png)
+
+Veillez à bien nommer le fichier, selon le modèle suivant:
+
+![Nommage des fichiers](img/Nommage-des-fichiers.png)
+
 ## Quantité de notes à donner
 
 Le **nombre de notes minimum** à attribuer durant un semestre, pour chaque cours, **est de 3**.
