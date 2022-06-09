@@ -24,6 +24,9 @@ Cette vidéo montre comment fonctionne la saisie dans ESA:
 
 <br/>
 
+**EP** : école professionelle = les classes duales.  
+**EM** : école des métiers = les classes plein-temps.
+
 ## Quantité de notes à donner
 
 Le **nombre de notes minimum** à attribuer durant un semestre, pour chaque cours, **est de 3**.
