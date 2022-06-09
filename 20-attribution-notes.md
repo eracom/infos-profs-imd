@@ -29,15 +29,15 @@ Cette vidéo montre comment fonctionne la saisie dans ESA:
 
 Les fichiers Excel sont [disponibles dans Teams](https://eduvaud.sharepoint.com/:f:/s/ERACOM_ID_Teams/EkgL1l4_A0BFpXBtUq9V9BABZh235j2x24zwoWrnU76Abg?e=a9B504). Vous trouvez un modèle pour chaque classe.
 
-Veillez à bien renseigner les trois champs suivants:
+Veillez à bien renseigner les champs suivants:
 
 - Votre nom
 - Le nom du cours
-- **L'acronyme du cours** (⚠️important!). Vous le trouvez [dans la fiche de votre cours](https://code.eracom-pedagogique.ch/formation-imd/?vue=profs).
+- **L'acronyme du cours** (⚠️). Vous le trouvez [dans la fiche de votre cours](https://code.eracom-pedagogique.ch/formation-imd/?vue=profs).
 
 ![Nommage des fichiers](img/champs-excel-notes.png)
 
-Veillez à bien nommer le fichier, selon le modèle suivant:
+Veillez à renommer le fichier, selon le modèle suivant. Vous pouvez abréger le nom du cours comme bon vous semble, mais soyez rigoureux pour **l'acronyme** et votre nom.
 
 ![Nommage des fichiers](img/Nommage-des-fichiers.png)
 
