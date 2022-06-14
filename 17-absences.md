@@ -24,7 +24,7 @@ Dans Hyperplanning, voici comment procéder:
 
 <br/>
 
-**Important:** faites la saisie le jour même, idéalement en tout début de cours. Vous ne pourrez plus faire de modifications après 24h.
+**Important:** faites la saisie *le jour même*, idéalement en tout début de cours. Vous ne pourrez plus faire de modifications après 24h.
 
 Astuce:  vous n'aurez pas accès à l'historique des présences, il est donc conseillé de faire une capture d'écran après la saisie. Cela vous donnera un relevé dans la durée.
 
