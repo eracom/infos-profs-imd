@@ -18,7 +18,7 @@ Voici une observation sur les rendus tardifs, dans le livre de Meredith Davis "*
 >
 > Among the most important things to teach students is the nature of a reflective practice, of finding the intellectual challenge in assignments that sustains designers when work seems repetitive, ordinary, or impossible. This often means slowing down the pace of work, engaging in ideas about design rather than simply executing the next phase of a deliverable.
 
-Source:
+### Source:
 
 Davis, M. (2017). *Teaching Design: A guide to curriculum and pedagogy*. New York: Allworth Press. 
 
