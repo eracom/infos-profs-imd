@@ -8,7 +8,7 @@ permalink: attribution-notes.html
 
 Les notes, en fin de semestre, doivent être transmises par deux moyens:
 
-1. Saisies par l'enseignant·e dans la ****: [plateforme e*SA](https://www.portail.vd.ch/iam/accueil/).
+1. Saisies par l'enseignant·e dans la [plateforme e*SA](https://www.portail.vd.ch/iam/accueil/).
 2. Transmises au Maître Principal dans le formulaire Excel, [disponible dans Teams](https://eduvaud.sharepoint.com/:f:/s/ERACOM_ID_Teams/EkgL1l4_A0BFpXBtUq9V9BABZh235j2x24zwoWrnU76Abg?e=a9B504)
 
 ### Points importants pour la saisie dans e*SA
