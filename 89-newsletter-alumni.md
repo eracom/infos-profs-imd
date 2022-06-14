@@ -7,18 +7,18 @@ Cela nous permet de communiquer à nos alumni des offres d'emplois, ou des invit
 
 Page d'inscription élèves / alumni
 
-https://mailchi.mp/0d8e5c8616d4/alumni-eracom
+[https://mailchi.mp/0d8e5c8616d4/alumni-eracom](https://mailchi.mp/0d8e5c8616d4/alumni-eracom)
 
-Page d'inscription externes
+Page d'inscription pour externes (intervenants de workshops)
 
-https://mailchi.mp/b6c59bed7609/eracom-imd
+[https://mailchi.mp/b6c59bed7609/eracom-imd](https://mailchi.mp/b6c59bed7609/eracom-imd)
 
 ## Archive des envois
 
-https://us18.campaign-archive.com/home/?u=de31c09247ace5a725bc6743e&id=357e61cc48
+[Page d'archives](https://us18.campaign-archive.com/home/?u=de31c09247ace5a725bc6743e&id=357e61cc48)
 
 
 Exemple d'envoi: 
 
-https://mailchi.mp/b85f19999482/offres-11356127
+[https://mailchi.mp/b85f19999482/offres-11356127](https://mailchi.mp/b85f19999482/offres-11356127)
 
