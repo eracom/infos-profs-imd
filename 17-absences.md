@@ -30,7 +30,7 @@ Astuce:  vous n'aurez pas accès à l'historique des présences, il est donc con
 
 **En résumé:**
 
-- Les justificatifs en cas d'absence ne sont pas remis à l'enseignant·e, mais au secrétariat. Vous indiquez simplement si l'élève est absent, c'est le secrétariat qui corrigera le cas échéant dans un délai de 7 jours.
+- Les justificatifs en cas d'absence ne sont pas remis à l'enseignant·e, mais au secrétariat. Dans tous les cas, vous enregistrez simplement l'absence dans Hyperplanning. Le secrétariat corrigera le cas échéant dans un délai de 7 jours.
 - Toute arrivée tardive de **plus de quinze minutes** est considérée comme une période d’absence et ne peut être justifiée sauf si le retard est lié aux transports publics. Dans ce cas, l’élève doit fournir au secrétariat le justificatif d’absence accompagné d’une preuve tangible.
 - L’élève absent·e aux cours doit prendre les mesures nécessaires, auprès de ses camarades, pour se tenir informé·e du travail accompli, rattraper la matière et effectuer les devoirs. Iel s’organise avec ses enseignant·es pour rattraper les tests manqués et les travaux non rendus.
 
