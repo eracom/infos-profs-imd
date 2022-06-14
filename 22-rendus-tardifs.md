@@ -15,8 +15,6 @@ Voici une observation sur les rendus tardifs, dans le livre de Meredith Davis "*
 > Students successfully hide when they are lost in solving a problem, and their confusion becomes apparent only in the final critique. It is the role of faculty to model a reflective practice in pacing the work of a studio and to coordinate conflicting demands on students' time with colleagues in other courses. 
 >
 > Late work is not a problem fixed by punitive policies or scaring students into compliance.
->
-> Among the most important things to teach students is the nature of a reflective practice, of finding the intellectual challenge in assignments that sustains designers when work seems repetitive, ordinary, or impossible. This often means slowing down the pace of work, engaging in ideas about design rather than simply executing the next phase of a deliverable.
 
 ### Source:
 
