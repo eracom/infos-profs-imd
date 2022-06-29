@@ -14,9 +14,9 @@ Une exception: pour la classe FPC de 2e année, les cours *Développement d'inte
 
 ## Répartition des notes sur le semestre
 
-Les notes doivent être attribuées dans le courant du semestre. ⚠️ Il faut éviter que les trois notes du semestre soient regroupées sur les 2-3 dernières semaines. Veillez à équilibrer la charge de travail.
+Les notes doivent être attribuées dans le courant du semestre, afin que les élèves aient un retour régulier sur leur progrès. Il ne faut surtout pas rendre les trois notes tout à la fin du semestre. Il faut éviter que les évaluations s'accumulent sur les dernières semaines du semestre. Veillez à équilibrer la charge de travail.
 
-## Information sur les évaluations
+## Principes concernant les évaluations
 
 Les enseignant-es sont tenus d'annoncer aux élèves:
 
@@ -26,7 +26,7 @@ Les enseignant-es sont tenus d'annoncer aux élèves:
 
 ## Devoirs et travaux pendant les vacances
 
-Les élèves en école professionnelle ont un horaire chargé (typiquement 40 périodes d'enseignement dans 15 matières par semaine). Il est demandé que tout le travail scolaire se déroule **dans le cadre des cours**. Les "devoirs à effectuer en dehors des cours" sont à éviter.
+Les élèves en école professionnelle ont un horaire chargé (en moyenne hebdomadaire, 40 périodes d'enseignement dans 15 matières différentes). Il est demandé que tout le travail scolaire se déroule **dans le cadre des cours**. Les "devoirs à effectuer en dehors des cours" sont à éviter.
 
 Les **vacances scolaires** ne doivent pas être utilisées pour des travaux imposés. Les élèves doivent être libres de les utiliser pour leurs projets personnels ou familiaux 🏖.
 
