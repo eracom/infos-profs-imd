@@ -70,8 +70,7 @@ Pour installer le pilote d’impression Follow-Me / PaperClip, voir la documenta
 
 Service informatique: salle 406  
 FAQ informatique: [https://eracom.ch/faq/](https://eracom.ch/faq/)   
-Accès serveur de fichiers local de l’école 
-Ancien serveur (“Hermès”): afp://hermes/ ou [https://fichiers.edu-vaud.ch/](https://fichiers.edu-vaud.ch/)
+Serveur de fichiers local de l’école (Zephyr): [smb://zephyr](smb://zephyr) ou [https://fichiers.edu-vaud.ch/](https://fichiers.edu-vaud.ch/)
 
 Outils en ligne:  
 Github: [https://github.com/eracom](https://github.com/eracom)  
