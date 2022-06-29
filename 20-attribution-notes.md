@@ -24,7 +24,7 @@ Les notes doivent être attribuées dans le courant du semestre. ⚠️ Il faut 
 
 Les enseignant-es sont tenus d'annoncer aux élèves:
 
-- Les dates des évaluations.
+- Les dates des évaluations (tout test doit être annoncé).
 - Les contenus sur lesquels porte l'évaluation.
 - Les critères d'évaluation.
 
@@ -34,3 +34,12 @@ Les élèves en école professionnelle ont un horaire chargé (typiquement 40 p�
 
 Les **vacances scolaires** ne doivent pas être utilisées pour des travaux imposés. Les élèves doivent être libres de les utiliser pour leurs projets personnels ou familiaux 🏖.
 
+## Comment évaluer, comment construire un barème
+
+Des indications à ce sujet se trouvent dans Teams, sous
+ERACOM_ID_Teams > General > [Ressources enseignement > Evaluation travaux élèves](https://eduvaud.sharepoint.com/:f:/s/ERACOM_ID_Teams/ElN_V1OIL2xPh_vwWRUkkS0BnJOb8xriw5biNm9dhpORGg?e=p79qh4)
+
+Autres ressources utiles:
+
+- [Les biais d'évaluation](https://code.eracom-pedagogique.ch/pedagogie/biais-evaluation.html)
+- [La construction de critères d'évaluation](https://code.eracom-pedagogique.ch/pedagogie/evaluation-constructive.html)
