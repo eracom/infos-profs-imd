@@ -18,7 +18,7 @@ permalink: lexique.html
 
 **FPC:** Formation professionnelle condensée (en 3 ans). Ces classes ne suivent pas les cours d'ECG.
 
-**HEFP (ex-IFFP):** Institut fédéral des hautes études en formation professionnelle . L’IFFP est devenu depuis le 1er août 2021 la HEFP (Haute Ecole Fédérale en formation professionnelle). Le site pour la Suisse romande est à Renens. Cette institution forme les enseignants des écoles professionnelles du secondaire, dont ceux de l'Eracom. Site web: [https://www.hefp.swiss/](https://www.hefp.swiss/)
+**HEFP:** Haute Ecole Fédérale en formation professionnelle. Le site pour la Suisse romande est à Renens. Cette institution forme les enseignants des écoles professionnelles du secondaire, dont ceux de l'Eracom. Site web: [https://www.hefp.swiss/](https://www.hefp.swiss/)
 
 **IAM:** portail IAM (Identity and Access Management): permet de se connecter de manière sécurisée aux différentes ressources de l'Etat de Vaud. Page de connexion: [https://www.portail.vd.ch/iamlogin/](https://www.portail.vd.ch/iamlogin/)
 
