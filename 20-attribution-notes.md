@@ -28,7 +28,7 @@ Les enseignant-es sont tenus d'annoncer aux élèves:
 
 Les élèves en école professionnelle ont un horaire chargé (en moyenne hebdomadaire, 40 périodes d'enseignement dans 15 matières différentes). Il est demandé que tout le travail scolaire se déroule **dans le cadre des cours**. Les "devoirs à effectuer en dehors des cours" sont à éviter.
 
-Les **vacances scolaires** ne doivent pas être utilisées pour des travaux imposés. Les élèves doivent être libres de les utiliser pour leurs projets personnels ou familiaux 🏖.
+Les **vacances scolaires** ne doivent pas être utilisées pour des travaux imposés. Les élèves doivent être libres de les utiliser pour leurs projets personnels ou familiaux.
 
 ## Comment évaluer, comment construire un barème
 

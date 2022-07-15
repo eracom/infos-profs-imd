@@ -32,6 +32,21 @@ Classes: ID321, 311, 301.
 Ces élèves ont effectué une autre formation préalable (CFC ou maturité).  
 Ces élèves n'ont pas de cours de culture générale (ECG), cela permet de compacter le programme sur 3 années.
 
+
+## Les noms des classes
+
+L'eracom pratique un système de noms de classes qui permet d'identifier :
+
+- **La filière** (ID, GR, PA...)
+- **Premier chiffre: la durée de formation**. 4 indique une classe suivant le cursus sur 4 ans, 3 indique une classe à formation condensée sur 3 ans.
+- **2e chiffre: année du début de formation**. 9 pour 2019, 0 pour 2020, 1 pour 2021, etc.
+- **3e chiffre: type de formation**. 1 pour "école plein temps" et 2 pour "formation duale".
+
+Explication illustrée:
+
+![Décryptage du nom de classe](img/identifiants-classes-eracom.png)
+
+
 ## La formation IMD en Suisse
 
 La formation IMD est donnée dans huit écoles en Suisse:
