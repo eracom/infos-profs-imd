@@ -11,13 +11,13 @@ La formation IMD à l'eracom peut s'effectuer en trois modes différents:
 ### 1) Formation duale
 
 Durée: 4 ans.  
-Classes: ID412, 402, 492, 482.  
+Classes: ID422, 412, 402, 492.  
 Dans le système dual, les élèves signent un contrat d’apprentissage avec une entreprise formatrice. Ils suivent les cours en école 1 à 2 jours par semaine (2 jours les 2 premières années, ensuite 1 jour). Ils ont également des [cours interentreprise (CIE)](cours-cie.html), 5 fois durant la formation.    
 
 ### 2) Formation en école de métiers (plein-temps)
 
 Durée: 4 ans.  
-Classes: ID411, 401, 491, 481.  
+Classes: ID421, 411, 401, 491.  
 Une partie des élèves a effectué auparavant une année de préapprentissage (à l'Eracom, parfois au CEPV ou Eikon).  
 Ces élèves suivent une demi-journée de cours de culture générale (ECG).
 
@@ -25,10 +25,12 @@ Une partie des élèves effectue la [maturité professionnelle intégrée](https
 
 ### 3) Formation professionnelle condensée (FPC)
 
+Formation en école à plein-temps, sur 3 ans au lieu de 4.
+
 Durée: 3 ans.  
-Classes: ID311, 301, 391.  
+Classes: ID321, 311, 301.  
 Ces élèves ont effectué une autre formation préalable (CFC ou maturité).  
-Ils n'ont pas de cours de culture générale (ECG), cela permet de compacter le programme sur 3 années.
+Ces élèves n'ont pas de cours de culture générale (ECG), cela permet de compacter le programme sur 3 années.
 
 ## La formation IMD en Suisse
 
@@ -40,6 +42,7 @@ En Suisse romande et au Tessin:
 - Fribourg ([Eikon](https://eikon.ch/), formation plein-temps.
 - Genève ([CFP Arts](https://cfparts.ch/metiers/interactive-media-design/)), formation plein-temps.
 - La Chaux-de-Fonds [(EAA)](https://www.eaa-la-chaux-de-fonds.ch/formation/interactive-media-designer), formation plein-temps.
+- Bienne ([Schule für Gestaltung Bern und Biel](https://sfgb-b.ch/), formation plein-temps (depuis 2022).
 - Lugano ([CSIA](https://www.csia.ch/im.html)), formation plein-temps.
 
 En Suisse alémanique: 
