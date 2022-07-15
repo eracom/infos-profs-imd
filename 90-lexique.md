@@ -24,6 +24,8 @@ permalink: lexique.html
 
 **IMD ou ID:** interactive media designer.
 
+**PSPS:** unité de Promotion de la Santé et de Prévention en milieu Scolaire, à l'eracom. Voir [https://psps.eracom-pedagogique.ch/](https://psps.eracom-pedagogique.ch/)
+
 **THADA:** Trouble d'hyperactivité avec déficit d'attention.
 
 **TPA:** Travail personnel d’approfondissement. Partie de l’examen eCG, en année terminale.
