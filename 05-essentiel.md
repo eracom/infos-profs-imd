@@ -70,7 +70,8 @@ Pour installer le pilote d’impression Follow-Me / PaperClip, voir la documenta
 
 Service informatique: salle 406  
 FAQ informatique: [https://eracom.ch/faq/](https://eracom.ch/faq/)   
-Serveur de fichiers local de l’école (Zephyr): [smb://zephyr](smb://zephyr) ou [https://fichiers.edu-vaud.ch/](https://fichiers.edu-vaud.ch/)
+Serveur de fichiers local de l’école (Zephyr): [smb://zephyr](smb://zephyr)
+Partage de fichiers en ligne : plateforme Office365/OneDrive
 
 Outils en ligne:  
 Github: [https://github.com/eracom](https://github.com/eracom)  
