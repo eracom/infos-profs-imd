@@ -57,7 +57,7 @@ En Suisse romande et au Tessin:
 - Fribourg ([Eikon](https://eikon.ch/), formation plein-temps.
 - Genève ([CFP Arts](https://cfparts.ch/metiers/interactive-media-design/)), formation plein-temps.
 - La Chaux-de-Fonds [(EAA)](https://www.eaa-la-chaux-de-fonds.ch/formation/interactive-media-designer), formation plein-temps.
-- Bienne ([Schule für Gestaltung Bern und Biel](https://sfgb-b.ch/), formation plein-temps (depuis 2022).
+- Bienne ([Schule für Gestaltung Bern und Biel](https://sfgb-b.ch/), formation plein-temps, depuis 2022).
 - Lugano ([CSIA](https://www.csia.ch/im.html)), formation plein-temps.
 
 En Suisse alémanique: 
