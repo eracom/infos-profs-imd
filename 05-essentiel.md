@@ -54,7 +54,16 @@ Avec les élèves: email et la plateforme Teams.
 
 **Service santé, médiation** (salle 102)
 Nous avons une équipe de médiation scolaire, pour soutenir les élèves en difficulté. Le service de médiation offre un accompagnement aux élèves en difficulté, en rupture de liens ou vivant des conflits. Il peut aussi être sollicité par un-e enseignant-e en proie à des difficultés relationnelles avec un-e élève ou un groupe d’élèves.  
-Heures d’ouverture: voir salle 102.
+Heures d’ouverture: voir salle 102.  
+Site dédié: [https://psps.eracom.ch/](https://psps.eracom.ch/)
+
+### Comptes informatiques
+
+Pour le personnel enseignant, trois comptes sont utilisés:
+
+* **Compte local Active Directory (AD)** : accès au Wifi, aux postes de travail iMac, au [stockage Zephyr](smb://zephyr) et au système d'impression FollowMe/PaperCut.
+* **Compte Eudvaud.ch** : accès à Office 365, y compris le mail et l'outil Teams. Login via [https://www.office.com/](https://www.office.com/)
+* **Compte IAM** : accès au portail IAM, applications pour les collaborateurs-trices de l’Etat de Vaud. Utilisé pour la saisie des absences via Login via: [https://www.portail.vd.ch/iam/accueil/](https://www.portail.vd.ch/iam/accueil/). Donne accès à : Hyperplanning (saisie des absences), e*SA (saisie des notes en fin de semestre), et Libre-service RH (certificat de salaire, bulletins de paie).
 
 ### Impressions
 
