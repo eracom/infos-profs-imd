@@ -62,18 +62,8 @@ Site dédié: [https://psps.eracom.ch/](https://psps.eracom.ch/)
 Pour le personnel enseignant, trois comptes sont utilisés:
 
 * **Compte local Active Directory (AD)** : accès au Wifi, aux postes de travail iMac, au [stockage Zephyr](smb://zephyr) et au système d'impression FollowMe/PaperCut.
-* **Compte Eudvaud.ch** : accès à Office 365, y compris le mail et l'outil Teams. Login via [https://www.office.com/](https://www.office.com/)
+* **Compte Eudvaud.ch** : accès à Office 365, y compris le mail et l'outil Teams. Comporte 1To de stockage personnel dans OneDrive. Login via [https://www.office.com/](https://www.office.com/)
 * **Compte IAM** : accès au portail IAM, applications pour les collaborateurs-trices de l’Etat de Vaud. Utilisé pour la saisie des absences via Login via: [https://www.portail.vd.ch/iam/accueil/](https://www.portail.vd.ch/iam/accueil/). Donne accès à : Hyperplanning (saisie des absences), e*SA (saisie des notes en fin de semestre), et Libre-service RH (certificat de salaire, bulletins de paie).
-
-### Impressions
-
-Des imprimantes noir-blanc se situent à tous les étages (système Follow-Me).  
-Des imprimantes couleur se situent au 3e et 4e.  
-Choix de papier spéciaux: un catalogue d’échantillons est disponible au secrétariat.  
-Pour grandes quantités: au rez, salle 004, à côté de la salle des maîtres.  
-
-Pour installer le pilote d’impression Follow-Me / PaperClip, voir la documentation du service informatique: [https://eracom.ch/faq/](https://eracom.ch/faq/)
-
 
 ### Informatique, réseau
 
@@ -85,4 +75,15 @@ Partage de fichiers en ligne : plateforme Office365/OneDrive
 Outils en ligne:  
 Github: [https://github.com/eracom](https://github.com/eracom)  
 Compte Vimeo: [https://vimeo.com/eracom](https://vimeo.com/eracom)  
+
+
+### Impressions
+
+Des imprimantes noir-blanc se situent à tous les étages (système Follow-Me).  
+Des imprimantes couleur se situent au 3e et 4e.  
+Choix de papier spéciaux: un catalogue d’échantillons est disponible au secrétariat.  
+Pour grandes quantités: au rez, salle 004, à côté de la salle des maîtres.  
+
+Pour installer le pilote d’impression Follow-Me / PaperClip, voir la documentation du service informatique: [https://eracom.ch/faq/](https://eracom.ch/faq/)
+
 
