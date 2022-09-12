@@ -14,7 +14,7 @@ Une exception: pour la classe FPC de 2e année, les cours *Développement d'inte
 
 ## Répartition des notes sur le semestre
 
-Les notes doivent être attribuées dans le courant du semestre, afin que les élèves aient un retour régulier sur leur progrès. Il ne faut surtout pas rendre les trois notes tout à la fin du semestre. Il faut éviter que les évaluations s'accumulent sur les dernières semaines du semestre. Veillez à équilibrer la charge de travail.
+Les notes doivent être attribuées dans le courant du semestre, afin que les élèves aient un retour régulier sur leur progrès. Il ne faut surtout pas rendre les trois notes tout à la fin du semestre. Veillez à équilibrer la charge de travail.
 
 ## Principes concernant les évaluations
 
