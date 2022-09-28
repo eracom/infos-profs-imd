@@ -6,9 +6,9 @@ permalink: essentiel.html
 
 ## Structure et organisation
 
-L'Eracom est une école professionnelle du degré secondaire II, délivrant des CFC dans les métiers de la communication. Elle est structurée en quatre domaines.
+L'Eracom est une école professionnelle du degré secondaire II, délivrant des CFC dans les métiers de la communication. Elle est structurée en quatre domaines. La formation Interactive Media Designer appartient au domaine "Arts appliqués".
 
-Les autres filières comportent: graphisme, métiers de l'imprimé, école supérieure (spécialisation film), etc. – voir [eracom.ch/formations/](https://eracom.ch/formations/)
+Les autres formations comportent: graphisme, métiers de l'imprimé, école supérieure (spécialisation film), etc. – voir [eracom.ch/formations/](https://eracom.ch/formations/)
 
 ## Fonctions et responsabilités
 
