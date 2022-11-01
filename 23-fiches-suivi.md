@@ -36,7 +36,7 @@ Les informations importantes:
 
 Veillez à faire un résumé concis, facile à comprendre par vos collègues. Si vous souhaitez mettre en lien des supports de cours ou réalisations d'élèves, vous pouvez les mettre en annexe (dans **Fichiers > [Productions](https://eduvaud.sharepoint.com/:f:/s/ERACOM_ID_Teams/Ekp6q_FmR2pBkxl2f1BLWbQBIb2b5ocMUN3EmvgoV4ORQQ?e=Zc7pj8)**).
 
-![Exemple de fiche de suivi](img/modele-fiche-suivi.png)
+![Un exemple de fiche de suivi](img/modele-fiche-suivi.png)
 
 ## Pour les nouvelles classes
 
@@ -44,7 +44,7 @@ Si vous êtes la première personne à créer la fiche d'une nouvelle classe:
 
 - Rendez-vous le dossier **Suivi des classes > [Modèle](https://eduvaud.sharepoint.com/:f:/s/ERACOM_ID_Teams/ElpdqrPpZS1KhbQMojb-g04BhsTPk6iKHuELTlGZ3LGrRQ?e=8DDwoR)**.
 - Choisissez le fichier pour votre domaine, et utilisez la commande: **... > Copier dans**.
-- Naviguez dans le dossier **Suivi des classes**, créez un dossier pour la nouvelle classe s'il n'existe pas encore. Enregistrez ici le nouveau fichier.
+- Naviguez dans le dossier **Suivi des classes**, créez un dossier pour la nouvelle classe. Enregistrez ici le nouveau fichier.
 - Renommez le fichier en remplaçant "Modèle" par le nom de la classe.
 - Dans le fichier, renseignez l'année et le nom de la classe.
-- Remplissez les champs et les informations correspondant à votre cours.
+- Remplissez les champs et les informations qui correspondent à votre cours.
