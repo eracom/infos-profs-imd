@@ -42,6 +42,7 @@ Veillez à faire un résumé concis, facile à comprendre par vos collègues. Si
 
 Si vous êtes la première personne à créer la fiche d'une nouvelle classe: 
 
+- Bravo à vous! 👏
 - Rendez-vous dans le dossier **Suivi des classes > [Modèle](https://eduvaud.sharepoint.com/:f:/s/ERACOM_ID_Teams/ElpdqrPpZS1KhbQMojb-g04BhsTPk6iKHuELTlGZ3LGrRQ?e=8DDwoR)**.
 - Choisissez le fichier pour votre domaine, et utilisez la commande: **... > Copier dans**.
 - Naviguez dans le dossier **Suivi des classes**, créez un dossier pour la nouvelle classe. Enregistrez ici le nouveau fichier.
