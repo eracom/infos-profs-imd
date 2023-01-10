@@ -25,7 +25,7 @@ Veillez à bien renseigner les champs suivants:
 
 - Votre nom
 - Le nom du cours
-- **L'acronyme du cours** (⚠️). Vous le trouvez [dans la fiche de votre cours](https://code.eracom-pedagogique.ch/formation-imd/?vue=profs).
+- **L'acronyme du cours**. Vous le trouvez [dans la fiche de votre cours](https://code.eracom-pedagogique.ch/formation-imd/?vue=profs).
 
 ![Nommage des fichiers](img/champs-excel-notes.png)
 
