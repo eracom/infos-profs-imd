@@ -43,7 +43,7 @@ Lien e\*SA: [https://www.portail.vd.ch/iam/accueil/](https://www.portail.vd.ch/i
 
 - Saisissez chaque note séparément (les trois notes semestrielles, et non pas la moyenne du semestre).
 - Utilisez la même date que dans le fichier Excel.
-- Veillez bien à ***valider*** les notes après l'enregistrement. Si elles ne sont pas validées, cela empêche l'impression des bulletins.
+- Veillez à ***valider*** les notes après l'enregistrement. Si elles ne sont pas validées, cela empêche l'impression des bulletins.
 
 Délai de saisie et de transmission des notes :  
 Semestre d'automne: **vendredi 20 janvier 2023**  
