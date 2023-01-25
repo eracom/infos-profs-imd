@@ -22,9 +22,9 @@ L’enseignant·e:
 
 Les élèves peuvent suivre trois parcours différents:
 
-- Dual (apprentissage en entreprise / 1 à 2 jours en école) : en 4 ans. ID402, 492... 
-- École de métiers: en école, en 4 ans. ID401, 491, 481, 471.
-- FPC (formation professionnelle condensée): en école, en 3 ans. ID301, 391, 381.
+- **Dual** (apprentissage en entreprise / 1 à 2 jours en école) : en 4 ans. ID422, 412... 
+- **École de métiers** : en école, en 4 ans. ID421, 411, 401...
+- **FPC** (formation professionnelle condensée): en école, en 3 ans. ID321, 311, 301.
 
 Pour plus de précisions, voir [Formation IMD](formation-imd.html).
 
