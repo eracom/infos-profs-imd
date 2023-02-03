@@ -24,6 +24,8 @@ permalink: lexique.html
 
 **IMD ou ID:** interactive media designer.
 
+**PSO:** Périodes supplémentaires occasionnelles. Peuvent attribuées pour des remplacements. Dans le cas où une PSO correspond à une activité administrative, on applique la clé de conversion suivante : deux heures de travail = une PSO. Plus d'informations dans les [Dispositions d'application de la DGEP](https://www.vd.ch/fileadmin/user_upload/organisation/dfj/dgep/dgep_fichiers_pdf/DGEP-DA-janvier2020.pdf).
+
 **PSPS:** unité de Promotion de la Santé et de Prévention en milieu Scolaire, à l'eracom. Voir [https://psps.eracom-pedagogique.ch/](https://psps.eracom-pedagogique.ch/)
 
 **THADA:** Trouble d'hyperactivité avec déficit d'attention.
