@@ -21,7 +21,7 @@ Les critères d’évaluation sont définis pour l’ensemble de la Suisse (par 
 
 #### Exemples de données d'examen
 
-Des exemples de données TPI des années précédentes se trouvent dans Teams, sous [Examens > Archives TPI](https://teams.microsoft.com/_#/school/files/G%C3%A9n%C3%A9ral?threadId=19%3Av57lcylAve2ueNJESQNq1mzklpDrNCPiKSE2TjKdLxk1%40thread.tacv2&ctx=channel&context=Archives%2520TPI&rootfolder=%252Fsites%252FERACOM_ID_Teams%252FDocuments%2520partages%252FGeneral%252FExamens%252FArchives%2520TPI).  
+Des exemples de données TPI des années précédentes (ainsi que des travaux de candidats) se trouvent dans Teams, sous [Examens > Archives TPI]([https://teams.microsoft.com/_#/school/files/G%C3%A9n%C3%A9ral?threadId=19%3Av57lcylAve2ueNJESQNq1mzklpDrNCPiKSE2TjKdLxk1%40thread.tacv2&ctx=channel&context=Archives%2520TPI&rootfolder=%252Fsites%252FERACOM_ID_Teams%252FDocuments%2520partages%252FGeneral%252FExamens%252FArchives%2520TPI](https://eduvaud.sharepoint.com/:f:/r/sites/ERACOM_ID_Teams/Documents%20partages/General/Ressources%20enseignement/Examens%20-%20archives/Archives%20TPI%202018-22?csf=1&web=1&e=vNlBCV)).  
 
 ### Examen de connaissances professionnelles
 
