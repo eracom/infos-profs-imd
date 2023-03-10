@@ -53,8 +53,8 @@ La formation IMD est donnée dans huit écoles en Suisse:
 
 En Suisse romande et au Tessin:
 
-- Lausanne ([eracom](https://eracom.ch/), formation duale, plein-temps et FPC.
-- Fribourg ([Eikon](https://eikon.ch/), formation plein-temps.
+- Lausanne ([eracom](https://eracom.ch/)), formation duale, plein-temps et FPC.
+- Fribourg ([Eikon](https://eikon.ch/)), formation plein-temps.
 - Genève ([CFP Arts](https://cfparts.ch/metiers/interactive-media-design/)), formation plein-temps.
 - La Chaux-de-Fonds ([EAA](https://www.eaa-la-chaux-de-fonds.ch/formation/interactive-media-designer)), formation plein-temps.
 - Bienne ([Schule für Gestaltung Bern und Biel](https://sfgb-b.ch/), formation plein-temps, depuis 2022).
