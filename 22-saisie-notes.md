@@ -8,7 +8,7 @@ permalink: saisie-notes.html
 
 Les notes, en fin de semestre, doivent être transmises par deux moyens:
 
-1. Transmises au Maître Principal dans le formulaire Excel, [disponible dans Teams](https://eduvaud.sharepoint.com/:f:/s/ERACOM_ID_Teams/EkgL1l4_A0BFpXBtUq9V9BABZh235j2x24zwoWrnU76Abg?e=a9B504)
+1. Transmises au Maître Principal dans le formulaire Excel, [disponible dans Teams](https://eduvaud.sharepoint.com/:f:/r/sites/ERACOM_ID_Teams/Documents%20partages/General/Fiches%20de%20notes?csf=1&web=1&e=PfBRy1)
 2. Saisies par l'enseignant·e dans la [plateforme e*SA](https://www.portail.vd.ch/iam/accueil/).
 
 ### Points importants
@@ -19,7 +19,7 @@ Les notes, en fin de semestre, doivent être transmises par deux moyens:
 
 ### Points importants pour les fiches Excel
 
-Les fichiers Excel sont [disponibles dans Teams](https://eduvaud.sharepoint.com/:f:/s/ERACOM_ID_Teams/EkgL1l4_A0BFpXBtUq9V9BABZh235j2x24zwoWrnU76Abg?e=a9B504). Vous trouvez un modèle pour chaque classe.
+Les fichiers Excel sont [disponibles dans Teams](https://eduvaud.sharepoint.com/:f:/r/sites/ERACOM_ID_Teams/Documents%20partages/General/Fiches%20de%20notes?csf=1&web=1&e=PfBRy1). Vous trouvez un modèle pour chaque classe.
 
 Veillez à bien renseigner les champs suivants:
 
