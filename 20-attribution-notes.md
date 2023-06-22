@@ -6,9 +6,9 @@ permalink: attribution-notes.html
 
 ## Quantité de notes à donner
 
-Le **nombre de notes minimum** à attribuer durant un semestre, pour chaque cours, **est de 3**.
+Le **nombre de notes minimum** à attribuer durant un semestre, pour chaque cours, **est de 3**. Cela est une exigence légale, figurant à l'[article 61 RLVLFPr](https://www.lexfind.ch/fe/fr/tol/19342/): "Chaque moyenne semestrielle doit être établie sur trois travaux notés au moins".
 
-Dans les cours du **nouveau plan de formation** (classes ayant commencé en 2020 et après), vous pouvez donner **plus de 3 notes** si vous le souhaitez (si c'est cohérent en fonction des travaux réalisés).
+Vous pouvez donner **plus de 3 notes** si vous le souhaitez (si c'est cohérent en fonction des travaux réalisés).
 
 Une exception: pour la classe FPC de 2e année, les cours *Développement d'interfaces 2 et 3* étant au même semestre, les enseignant·es doivent s'accorder pour donner le même nombre de notes.
 
