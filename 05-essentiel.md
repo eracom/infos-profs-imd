@@ -35,7 +35,7 @@ Pour l’ensemble des enseignant·es: réunion de début et fin de semestre.
 **Filière ID:** 
 
 - Réunion sectorielle en début et fin de semestre. 
-- Plateforme de communication Teams: [https://teams.microsoft.com/](https://teams.microsoft.com/)
+- Plateforme de communication Teams: [https://teams.microsoft.com/](https://teams.microsoft.com/). Voir [Utilisation de Teams](https://code.eracom-pedagogique.ch/teams-enseignement/).
 - Au cours de l'année: rencontres individuelles et réunions de coordination par corps de métier (trois domaines: interfaces, audiovisuel, communication). 
 
 Avec les élèves: email et la plateforme Teams.
