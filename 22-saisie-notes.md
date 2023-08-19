@@ -31,7 +31,7 @@ Veillez à bien renseigner les champs suivants:
 
 Veillez à **renommer le fichier selon le modèle suivant**. Vous pouvez abréger le nom du cours par souci de lisibilité, mais indiquez **l'acronyme** et votre nom.
 
-![](img/Nommage-des-fichiers.png)
+![](img/Nommage-des-fichiers-2023.png)
 
 
 ### Points importants pour la saisie dans e\*SA
