@@ -61,11 +61,7 @@ Site dédié: [https://psps.eracom.ch/](https://psps.eracom.ch/)
 
 Pour le personnel enseignant, trois comptes sont utilisés:
 
-* **Compte local Active Directory (AD)** : accès au Wifi, aux postes de travail iMac, au [stockage Zephyr](smb://zephyr) et au système d'impression FollowMe/PaperCut.
-* **Compte Eudvaud.ch** : accès à Office 365, y compris le mail et l'outil Teams. Comporte 1To de stockage personnel dans OneDrive. Login via [https://www.office.com/](https://www.office.com/)
-* **Compte IAM** : accès au portail IAM, applications pour les collaborateurs-trices de l’Etat de Vaud. Utilisé pour la saisie des absences via Login via: [https://www.portail.vd.ch/iam/accueil/](https://www.portail.vd.ch/iam/accueil/). Donne accès à : Hyperplanning (saisie des absences), e*SA (saisie des notes en fin de semestre), et Libre-service RH (certificat de salaire, bulletins de paie).
-
-| Compte  | Fonction | 
+| Compte  | Usage | 
 |:------ |:------ |
 |  **Compte local Active Directory (AD)** |  accès au Wifi, aux postes de travail iMac, au [stockage Zephyr](smb://zephyr) et au système d'impression FollowMe/PaperCut |
 |  **Compte Eudvaud.ch** | accès à Office 365, y compris le mail et l'outil Teams. Comporte 1To de stockage personnel dans OneDrive. Login via [https://www.office.com/](https://www.office.com/) |
