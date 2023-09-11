@@ -12,6 +12,14 @@ La formation continue des enseignants peut prendre diverses formes, notamment:
 - Participation à des workshops ou conférences.
 - Certification dans un logiciel.
 
+### Demande de formation
+
+La [procédure de demande de formation continue](https://eracom.ch/extranet/assets/uploads/2018/04/ERACOM_Proce%CC%81dure_DemandeFormationContinue.pdf) se trouve dans l'Extranet, ainsi que le [Formulaire de demande de formation](https://eracom.ch/extranet/assets/uploads/2020/09/Formulaire-de-demande-de-formation-continue-07.2020.docx).
+
+Extrait du règlement (RLVLFPr 164.2): 
+
+> Il appartient à l'enseignant qui souhaite suivre une formation continue de présenter une demande motivée auprès de son directeur au moyen du formulaire (...) avec un descriptif présentant le projet de formation et son budget. Cette demande doit démontrer que la formation sollicitée répond à des besoins pédagogiques (...).
+
 ### Formations qui ont été organisées
 
 #### Invitation d'experts
@@ -47,19 +55,10 @@ Retour de l'enseignant:
 - [Formations du CEP (Centre d'éducation permanente)](https://www.cep.swiss/)
 
 
-## Cadre légal
+## Base légale
 
-La base légale sur la formation continue se trouve dans l'[Art. 164 RLVLFPr](https://prestations.vd.ch/pub/blv-publication/actes/consolide/413.01.1?key=1543843943389&id=abca1d40-c011-46fe-8d74-0256215b72f1):
+La base légale sur la formation continue se trouve dans ces documents: 
 
-### Art. 164 | Perfectionnement et formation continue
+- l'[Art. 164 RLVLFPr](https://prestations.vd.ch/pub/blv-publication/actes/consolide/413.01.1?key=1543843943389&id=abca1d40-c011-46fe-8d74-0256215b72f1).
+- [les Dispositions d'application](pdf/formation/formation-continue-personnel-enseignant.pdf)
 
-1. L'enseignant a droit, sur son temps d'enseignement, à deux jours de perfectionnement ou de formation continue reconnue par année.
-2. L'enseignant exerçant une activité particulière, notamment celle de médiateur, est tenu de suivre, sur le temps d'enseignement, un jour supplémentaire de formation continue dans ce domaine d'activité
-3. Le maître travaillant à temps partiel bénéficie pleinement de cette mesure, quel que soit son taux d'activité.
-4. Les cours de formation continue supplémentaires sont suivis hors du temps d'enseignement, sauf congé particulier accordé par le directeur.
-
-Dispositions d'application, sur le site VD.CH 
-
-Art. 164 | Perfectionnement et formation continue 
-
-Selon la loi sur l'enseignement professionnel, tout enseignant-e a droit annuellement à deux jours de formation continue, sur votre temps d'enseignement. La direction peut même vous accorder jusqu'à cinq jours.
