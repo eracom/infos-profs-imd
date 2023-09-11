@@ -43,6 +43,8 @@ Retour de l'enseignant:
 
 ### Offres de formation continue
 
+Quelques offres de formation:
+
 - Web: [les workshops de Smashing Conference](https://smashingconf.com/online-workshops/)  
 - Audiovisuel: [formations Focal](https://focal.ch/fr/formations)
 - [Formations du CEP (Centre d'éducation permanente)](https://www.cep.swiss/)
