@@ -21,13 +21,8 @@ Extrait du règlement (RLVLFPr 164.2):
 
 ### Formations qui ont été organisées
 
-#### Invitation d'experts
-
 - **Vidéo: le logiciel DaVinci Resolve, les bases du montage.** Intervenant: Jean-Baptiste Perrin (ColorGrade.ch). Formation de 4 heures, juin 2020.
 - **Vidéo, traitement du signal digital.** Intervenant: Gabriel Basso (CFMS). Formation d'une journée, octobre 2020.
-
-#### Formations en interne
-
 - **Design UX: workflow professionnel avec Sketch**. Formation interne par Gaël Paccard. Deux demi-journées, août-septembre 2020.
 - **Formation Photoshop**. Formation interne par Sandra Bühler. Deux demi-journées, octobre 2020.
 
@@ -39,7 +34,6 @@ En septembre 2020, un enseignant a participé à un workshop en ligne proposé p
 avec Jason Lengstorf (principal developer experience engineer at Netlify)  
 5 séances de 2.5h  
 [https://smashingconf.com/online-workshops/workshops/jason-lengstorf/](https://smashingconf.com/online-workshops/workshops/jason-lengstorf/)  
-prix: $350 
 
 Retour de l'enseignant: 
 
@@ -49,7 +43,7 @@ Retour de l'enseignant:
 
 ### Offres de formation continue
 
-- Web: [Programme des workshops de Smashing Conference](https://smashingconf.com/online-workshops/)  
+- Web: [les workshops de Smashing Conference](https://smashingconf.com/online-workshops/)  
 - Audiovisuel: [formations Focal](https://focal.ch/fr/formations)
 - [Formations du CEP (Centre d'éducation permanente)](https://www.cep.swiss/)
 
@@ -58,6 +52,6 @@ Retour de l'enseignant:
 
 La base légale sur la formation continue se trouve dans ces documents: 
 
-- l'[Art. 164 RLVLFPr](https://prestations.vd.ch/pub/blv-publication/actes/consolide/413.01.1?key=1543843943389&id=abca1d40-c011-46fe-8d74-0256215b72f1).
+- [Art. 164 RLVLFPr](https://prestations.vd.ch/pub/blv-publication/actes/consolide/413.01.1?key=1543843943389&id=abca1d40-c011-46fe-8d74-0256215b72f1)
 - [les Dispositions d'application](pdf/formation/formation-continue-personnel-enseignant.pdf)
 
