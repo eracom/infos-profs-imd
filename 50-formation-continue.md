@@ -21,10 +21,10 @@ Extrait du règlement (RLVLFPr 164.2):
 
 ### Formations qui ont été organisées
 
-- **Vidéo: le logiciel DaVinci Resolve, les bases du montage.** Intervenant: Jean-Baptiste Perrin (ColorGrade.ch). Formation de 4 heures, juin 2020.
-- **Vidéo, traitement du signal digital.** Intervenant: Gabriel Basso (CFMS). Formation d'une journée, octobre 2020.
-- **Design UX: workflow professionnel avec Sketch**. Formation interne par Gaël Paccard. Deux demi-journées, août-septembre 2020.
-- **Formation Photoshop**. Formation interne par Sandra Bühler. Deux demi-journées, octobre 2020.
+- **Vidéo: le logiciel DaVinci Resolve, les bases du montage.** Formation de 4 heures, juin 2020.
+- **Vidéo, traitement du signal digital.** Formation d'une journée, octobre 2020.
+- **Design UX: workflow professionnel avec Sketch**. Formation interne. Deux demi-journées, août-septembre 2020.
+- **Formation Photoshop**. Formation interne. Deux demi-journées, octobre 2020.
 
 #### Participation à des workshops
 
