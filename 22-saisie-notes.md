@@ -34,24 +34,6 @@ Veillez à **renommer le fichier selon le modèle suivant**. Vous pouvez abrége
 ![](img/Nommage-des-fichiers-2023.png)
 
 
-### Points importants pour la saisie dans e\*SA
+### Points importants pour la saisie dans Lagapep
 
-Lien e\*SA: [https://www.portail.vd.ch/iam/accueil/](https://www.portail.vd.ch/iam/accueil/)
-
-**EP** : école professionelle = les classes duales.  
-**EM** : école des métiers = les classes plein-temps.
-
-- Saisissez séparément chacune des notes semestrielles (et non pas la moyenne du semestre).
-- Saisissez les notes sur la date que vous indiquez dans le fichier Excel.
-- Veillez à ***valider*** les notes après l'enregistrement dans e\*SA. Si elles ne sont pas validées, cela empêche l'impression du bulletin.
-
-Délai de saisie et de transmission des notes :  
-Semestre d'automne: **vendredi 20 janvier 2023**  
-Semestre de printemps: **vendredi 16 juin 2023**
-
-Cette vidéo montre comment fonctionne la saisie dans ESA:
-
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/705756507?h=8ef61f5b55&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Saisie des notes dans ESA"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-
-
+Informations à venir.
