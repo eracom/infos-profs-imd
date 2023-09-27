@@ -15,10 +15,6 @@ La formation continue des enseignants peut prendre diverses formes, notamment:
 
 La [procédure de demande de formation continue](https://eracom.ch/extranet/assets/uploads/2018/04/ERACOM_Proce%CC%81dure_DemandeFormationContinue.pdf) se trouve dans l'Extranet, ainsi que le [Formulaire de demande de formation](https://eracom.ch/extranet/assets/uploads/2020/09/Formulaire-de-demande-de-formation-continue-07.2020.docx).
 
-Extrait du règlement (RLVLFPr 164.2): 
-
-> Il appartient à l'enseignant qui souhaite suivre une formation continue de présenter une demande motivée auprès de son directeur au moyen du formulaire (...) avec un descriptif présentant le projet de formation et son budget. Cette demande doit démontrer que la formation sollicitée répond à des besoins pédagogiques (...).
-
 ### Formations qui ont été organisées
 
 - **Vidéo: le logiciel DaVinci Resolve, les bases du montage.** Formation de 4 heures, juin 2020.
@@ -31,8 +27,7 @@ Extrait du règlement (RLVLFPr 164.2):
 En septembre 2020, un enseignant a participé à un workshop en ligne proposé par Smashing Conference: 
 
 *Jamstack! Building Apps From Idea to Production in Hours, Not Weeks*  
-avec Jason Lengstorf (principal developer experience engineer at Netlify)  
-5 séances de 2.5h  
+avec Jason Lengstorf (principal developer experience engineer at Netlify)    
 [https://smashingconf.com/online-workshops/workshops/jason-lengstorf/](https://smashingconf.com/online-workshops/workshops/jason-lengstorf/)  
 
 Retour de l'enseignant: 
@@ -57,3 +52,6 @@ La base légale sur la formation continue se trouve dans ces documents:
 - [Art. 164 RLVLFPr](https://prestations.vd.ch/pub/blv-publication/actes/consolide/413.01.1?key=1543843943389&id=abca1d40-c011-46fe-8d74-0256215b72f1)
 - [les Dispositions d'application](pdf/formation/formation-continue-personnel-enseignant.pdf)
 
+Extrait du règlement (RLVLFPr 164.2): 
+
+> Il appartient à l'enseignant qui souhaite suivre une formation continue de présenter une demande motivée auprès de son directeur au moyen du formulaire (...) avec un descriptif présentant le projet de formation et son budget. Cette demande doit démontrer que la formation sollicitée répond à des besoins pédagogiques (...).
