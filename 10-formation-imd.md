@@ -49,19 +49,19 @@ Explication illustrée:
 
 ## La formation IMD en Suisse
 
-La formation IMD est donnée dans huit écoles en Suisse:
+La formation IMD est donnée dans neuf écoles en Suisse:
 
 En Suisse romande et au Tessin:
 
-- Lausanne ([eracom](https://eracom.ch/)), formation duale, plein-temps et FPC.
-- Fribourg ([Eikon](https://eikon.ch/)), formation plein-temps.
-- Genève ([CFP Arts](https://cfparts.ch/metiers/interactive-media-design/)), formation plein-temps.
-- La Chaux-de-Fonds ([EAA](https://www.eaa-la-chaux-de-fonds.ch/formation/interactive-media-designer)), formation plein-temps.
-- Bienne ([Schule für Gestaltung Bern und Biel](https://sfgb-b.ch/), formation plein-temps, depuis 2022).
-- Lugano ([CSIA](https://www.csia.ch/im.html)), formation plein-temps.
+1. Lausanne ([eracom](https://eracom.ch/)), formation duale, plein-temps et FPC.
+2. Fribourg ([Eikon](https://eikon.ch/)), formation plein-temps.
+3. Genève ([CFP Arts](https://cfparts.ch/metiers/interactive-media-design/)), formation plein-temps.
+4. La Chaux-de-Fonds ([EAA](https://www.eaa-la-chaux-de-fonds.ch/formation/interactive-media-designer)), formation plein-temps.
+5. Bienne ([Schule für Gestaltung Bern und Biel](https://sfgb-b.ch/), formation plein-temps, depuis 2022).
+6. Lugano ([CSIA](https://www.csia.ch/)), formation plein-temps.
 
 En Suisse alémanique: 
 
-- À Bâle ([Schule für Gestaltung Basel](https://www.sfgbasel.ch/fachunterricht-berufslehren/interactive-media-designerin-efz/)), formation duale.
-- À Berne ([Schule für Gestaltung Bern und Biel](https://sfgb-b.ch/bildungsangebote/berufsfachschule/interactive-media-designer)), formation duale.
-- À Saint-Gall ([GBSSG](https://www.gbssg.ch/gestaltung/berufliche-grundbildung/interactive-media-designerin-efz.html)), formation duale.
+1. À Bâle ([Schule für Gestaltung Basel](https://www.sfgbasel.ch/)), formation duale.
+2. À Berne ([Schule für Gestaltung Bern und Biel](https://sfgb-b.ch/bildungsangebote/berufsfachschule/interactive-media-designer)), formation duale.
+3. À Saint-Gall ([GBSSG](https://www.gbssg.ch/gestaltung/berufliche-grundbildung/interactive-media-designerin-efz.html)), formation duale.
