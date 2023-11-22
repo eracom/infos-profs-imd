@@ -20,14 +20,14 @@ Contenu de la boîte de matériel électronique:
 - 8 petits moteurs rotatifs
 
 ### Historique des achats
- 
+
 Achat de composantes pour workshop (avec Nicolas Nahornyj), novembre 2019: 
  
-12 x 1863-1002-ND (LV‑MaxSonar‑EZ sensor) 
-12 x 1050-1066-ND (Arduino Micro ATMEGA32U4 EVAL BD) 
-12 x S1012EC-07-ND (connecteurs) 
-3 x 1471-1969-ND (fils de raccordement) 
-12 x 380-1431-ND (câbles USB A vers micro-B) 
+12 x 1863-1002-ND (LV‑MaxSonar‑EZ sensor)  
+12 x 1050-1066-ND (Arduino Micro ATMEGA32U4 EVAL BD)  
+12 x S1012EC-07-ND (connecteurs)  
+3 x 1471-1969-ND (fils de raccordement)  
+12 x 380-1431-ND (câbles USB A vers micro-B)  
 
 Les achats ont été effectués chez www.digikey.ch 
  
