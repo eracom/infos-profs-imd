@@ -12,8 +12,7 @@ Page d'inscription: [https://eracom-pedagogique.ch/typo-expo/](https://eracom-pe
 
 ## Newsletter Alumni
 
-L'eracom a créé une liste de diffusion pour les anciens élèves de filière IMD.  
-Cela nous permet de communiquer à nos alumni des offres d'emplois, ou des invitations à des événements.
+La filière ID a créé en 2021 une liste de diffusion pour nos anciens élèves. Cela nous permet de communiquer à nos alumni des offres d'emplois, ou des invitations à des événements.
 
 ### Landing pages:
 
