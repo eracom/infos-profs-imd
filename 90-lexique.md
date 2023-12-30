@@ -4,11 +4,11 @@ title: Lexique
 permalink: lexique.html
 ---
 
-**AP:** Applications professionnelles. Cours pour les élèves plein-temps, qui correspond à l'apprentissage effectué en entreprise chez les duals. Dans ces cours, l'accent est mis sur la réalisation pratique.
+**AP:** Applications professionnelles. Cours pour les élèves plein-temps, qui correspond à l'apprentissage effectué en entreprise chez les duals. Dans ces cours, l'accent est généralement mis sur la réalisation pratique et la pédagogie de projet.
 
-**EP:** Ecole professionnelle. Désigne les cours qui sont donnés à toutes les classes.
+**EP:** Ecole professionnelle. Désigne les cours qui sont donnés à toutes les classes, aussi bien duales que plein-temps.
 
-**COMROM:** Commission romande d'examen. Groupe de travail inter-écoles qui élabore annuellement le contenu de l'examen TPI (voir [Examen CFC](examen-cfc.html)).
+**COMROM:** Commission romande d'examen. Groupe de travail inter-écoles qui élabore annuellement le contenu de l'examen TPI, jusqu'en 2022-23 (voir [Examen CFC](examen-cfc.html)).
 
 **DGEP:** Direction générale de l'enseignement postobligatoire. La DGEP est chargée des formations qui se situent entre la fin de l'enseignement obligatoire et l'enseignement supérieur. 
 
