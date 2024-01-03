@@ -33,7 +33,7 @@ Les **vacances scolaires** ne doivent pas être utilisées pour des travaux impo
 ## Comment évaluer, comment construire un barème
 
 Des indications à ce sujet se trouvent dans Teams, sous
-ERACOM_ID_Teams > General > [Ressources enseignement > Evaluation travaux élèves](https://eduvaud.sharepoint.com/:f:/s/ERACOM_ID_Teams/ElN_V1OIL2xPh_vwWRUkkS0BnJOb8xriw5biNm9dhpORGg?e=p79qh4) ([voir une archive](https://www.dropbox.com/scl/fi/ldwd5gwddusi9bphm322y/Ressources-pour-valuation.docx?rlkey=ddxlrcrit4hqixlayke0dy9zi&dl=0).
+ERACOM_ID_Teams > General > [Ressources enseignement > Evaluation travaux élèves](https://eduvaud.sharepoint.com/:f:/s/ERACOM_ID_Teams/ElN_V1OIL2xPh_vwWRUkkS0BnJOb8xriw5biNm9dhpORGg?e=p79qh4) ([voir une archive](https://www.dropbox.com/scl/fi/ldwd5gwddusi9bphm322y/Ressources-pour-valuation.docx?rlkey=ddxlrcrit4hqixlayke0dy9zi&dl=0)).
 
 Autres ressources utiles:
 
