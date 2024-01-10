@@ -9,13 +9,13 @@ permalink: saisie-notes.html
 Les notes, en fin de semestre, doivent être transmises par deux moyens:
 
 1. Transmises au Maître Principal dans le formulaire Excel, [disponible dans Teams](https://eduvaud.sharepoint.com/:f:/r/sites/ERACOM_ID_Teams/Documents%20partages/General/Fiches%20de%20notes?csf=1&web=1&e=PfBRy1)
-2. Saisies par l'enseignant·e dans la [plateforme Lagap-EP](https://www.portail.vd.ch/iam/accueil/).
+2. Saisies par l'enseignant·e dans la [plateforme LAGAPEP](https://www.portail.vd.ch/iam/accueil/).
 
 ### Points importants
 
 - Le nombre de notes minimum, pour chaque cours, est de 3. (voir [Attribution de notes](attribution-notes.html))
 - Il ne faut pas saisir la moyenne du semestre, mais **chaque évaluation** à la date que vous avez fixé pour l'évaluation.
-- Les dates doivent être identiques dans le document Excel et la saisie Lagap-EP. Même si une évaluation a été répartie sur plusieurs semaines, définissez **une date** pour la saisie.
+- Les dates doivent être identiques dans le document Excel et la saisie LAGAPEP. Même si une évaluation a été répartie sur plusieurs semaines, définissez **une date unique** pour la saisie.
 
 ### Points importants pour les fiches Excel
 
@@ -34,6 +34,7 @@ Veillez à **renommer le fichier selon le modèle suivant**. Vous pouvez abrége
 ![](img/Nommage-des-fichiers-2023.png)
 
 
-### Points importants pour la saisie dans Lagapep
+### Saisie dans LAGAPEP
 
-Informations à venir.
+Vous pouvez consulter ce tutoriel pour découvrir toutes les fonctionnalités, notamment la saisie des notes:  
+[[disponibles dans Teams](https://bit.ly/formation-lagapep)](https://bit.ly/formation-lagapep)
