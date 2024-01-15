@@ -37,4 +37,4 @@ Veillez à **renommer le fichier selon le modèle suivant**. Vous pouvez abrége
 ### Saisie dans LAGAPEP
 
 Vous pouvez consulter ce tutoriel pour découvrir toutes les fonctionnalités, notamment la saisie des notes:  
-[[disponibles dans Teams](https://bit.ly/formation-lagapep)](https://bit.ly/formation-lagapep)
+[bit.ly/formation-lagapep)](https://bit.ly/formation-lagapep)
