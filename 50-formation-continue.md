@@ -17,6 +17,7 @@ La [procédure de demande de formation continue](https://eracom.ch/extranet/asse
 
 ### Formations qui ont été organisées
 
+- **Vidéo: lumière.** Formation de 2 jours, janvier 2024.
 - **Vidéo: le logiciel DaVinci Resolve, les bases du montage.** Formation de 4 heures, juin 2020.
 - **Vidéo, traitement du signal digital.** Formation d'une journée, octobre 2020.
 - **Design UX: workflow professionnel avec Sketch**. Formation interne. Deux demi-journées, août-septembre 2020.
