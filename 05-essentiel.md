@@ -42,8 +42,8 @@ Avec les élèves: email et la plateforme Teams.
 
 ## Les ressources mises à disposition
 
-**Doyenne et maître principal filière ID**  
-**Doyenne:** Michaela Varin. Bureau 010. Tel 021 316 01 13.  
+**Doyen et maître principal filière ID**  
+**Doyen:** Gregorio Soumas. Bureau 010. Tel 021 316 01 13.  
 **Maître principal:** Manuel Schmalstieg. Bureau 200. Tel 076 436 46 79.
 
 **Économat** (salle 208). Ouvert uniquement durant la pause du matin, 9h45 – 10h15.  
