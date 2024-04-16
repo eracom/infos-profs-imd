@@ -21,9 +21,9 @@ Les critères d’évaluation sont définis pour l’ensemble de la Suisse (par 
 
 #### Exemples de données d'examen
 
-Des exemples de données TPI des années précédentes (ainsi que des travaux de candidats) se trouvent dans Teams, sous [Examens > Archives TPI](https://eduvaud.sharepoint.com/:f:/r/sites/ERACOM_ID_Teams/Documents%20partages/General/Ressources%20enseignement/Examens%20-%20archives/Archives%20TPI%202018-22?csf=1&web=1&e=vNlBCV).  
+Des exemples de données TPI des années précédentes (ainsi que des travaux de candidats) se trouvent dans Teams, sous [Examens > Archives TPI](https://eduvaud.sharepoint.com/:f:/r/sites/ERACOM_ID_Teams/Documents%20partages/General/Ressources%20enseignement/Examens%20-%20archives/Archives%20TPI%202018-22?csf=1&web=1&e=vNlBCV). Les thèmes utilisés dans les écoles romandes: campagne pour le groupement des eaux de Romandie (2018), les jardins partagés (2019), Rec’Up ! (2021), antiguide touristique (2022), festivals de musique (2023).
 
-Dpsuisse propose [une liste d'exemples de mandat TPI](https://dpsuisse.ch/ideenpool-aufgabenstellung). Des thèmes utilisés dans les écoles romandes: campagne pour le groupement des eaux de Romandie (2018), les jardins partagés (2019), Rec’Up ! (2021), antiguide touristique (2022), festivals de musique (2023).
+Dpsuisse propose [une liste d'exemples de mandat TPI](https://dpsuisse.ch/ideenpool-aufgabenstellung) utilisés dans des entreprises formatrices.
 
 ### Examen de connaissances professionnelles
 
