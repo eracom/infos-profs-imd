@@ -19,7 +19,7 @@ Les notes, en fin de semestre, doivent être transmises par deux moyens:
 
 ### Points importants pour les fiches Excel
 
-Les fichiers Excel sont [disponibles dans Teams](https://eduvaud.sharepoint.com/:f:/r/sites/ERACOM_ID_Teams/Documents%20partages/General/Fiches%20de%20notes?csf=1&web=1&e=PfBRy1). Vous trouvez un modèle pour chaque classe.
+Les fichiers Excel sont [disponibles dans Teams](https://eduvaud.sharepoint.com/:f:/r/sites/ERACOM_ID_Teams/Documents%20partages/General/Fiches%20de%20notes%20%C3%A0%20t%C3%A9l%C3%A9charger?csf=1&web=1&e=anuAqG). Vous trouvez un modèle pour chaque classe.
 
 Veillez à bien renseigner les champs suivants:
 
