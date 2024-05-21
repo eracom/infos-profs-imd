@@ -8,7 +8,7 @@ permalink: saisie-notes.html
 
 Les notes, en fin de semestre, doivent être transmises par deux moyens:
 
-1. Transmises au Maître Principal dans le formulaire Excel, [disponible dans Teams](https://eduvaud.sharepoint.com/:f:/r/sites/ERACOM_ID_Teams/Documents%20partages/General/Fiches%20de%20notes%20%C3%A0%20t%C3%A9l%C3%A9charger?csf=1&web=1&e=anuAqG)
+1. Transmises au Maître Principal dans le fichier Excel, [disponible dans Teams](https://eduvaud.sharepoint.com/:f:/r/sites/ERACOM_ID_Teams/Documents%20partages/General/Fiches%20de%20notes%20%C3%A0%20t%C3%A9l%C3%A9charger?csf=1&web=1&e=anuAqG)
 2. Saisies par l'enseignant·e dans la [plateforme LAGAPEP](https://www.portail.vd.ch/iam/accueil/).
 
 ### Points importants
