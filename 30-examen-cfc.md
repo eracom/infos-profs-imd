@@ -31,6 +31,6 @@ L’examen de **connaissances professionnelles** porte sur toutes les branches C
 
 ### Calcul des notes et critères d'évaluation
 
-Le calcul des notes est détaillé dans les «Dispositions d’exécution» (p. 4), sur le site [imd-tpi.ch](https://www.imd-tpi.ch/), dans la section [Documentation](https://www.imd-tpi.ch/documentations/). Ce site informe également sur les dates, et fournit les grilles d'évaluation.
+Le calcul des notes est détaillé dans les «Dispositions d’exécution» (p. 4), sur le site [imd-tpi.ch](https://www.imd-tpi.ch/). Ce site informe également sur les dates, et fournit les grilles d'évaluation.
 
 ![Pondération des notes](img/ponderation-note-cfc.png)
