@@ -27,7 +27,7 @@ Dpsuisse propose [une liste d'exemples de mandat TPI](https://dpsuisse.ch/ideenp
 
 ### Examen de connaissances professionnelles
 
-L’examen de **connaissances professionnelles** porte sur toutes les branches EP. La durée est de **4 heures** (ordonnance, §16 b). C’est un examen ecrit, effectué en trois parties, sur une journée. Il a lieu en fin de dernier semestre (mi-mai ou début juin). Il est identique pour les élèves IMD dans toute la Suisse. 
+L’examen de **connaissances professionnelles** porte sur toutes les branches CP du plan de formation. La durée est de **4 heures** (ordonnance, §16 b). C’est un examen ecrit, effectué en trois parties, sur une journée. Il a lieu en fin de dernier semestre (mi-mai ou début juin). Il est identique pour les élèves IMD dans toute la Suisse. 
 
 ### Calcul des notes et critères d'évaluation
 
