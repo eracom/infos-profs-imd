@@ -7,7 +7,7 @@ Les principaux logiciels utilisés dans l'enseignement en filière ID à l'Eraco
 
 
 - **Production audiovisuelle** : Adobe Premiere / After Effects / Audition. (option: DaVinci Resolve)
-- **3D** : Cinema 4D
+- **3D** : Blender, Cinema 4D
 - **Web et App design** : Figma
 - **CMS** : WordPress
 - **Programmation** : VS Code
