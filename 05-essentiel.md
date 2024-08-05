@@ -63,8 +63,7 @@ Pour le personnel enseignant, trois comptes sont utilisés:
 
 | Compte  | Usage | 
 |:------ |:------ |
-|  **Compte local Active Directory (AD)** |  accès au Wifi, aux postes de travail iMac, au [stockage Zephyr](smb://zephyr) et au système d'impression FollowMe/PaperCut |
-|  **Compte Eudvaud.ch** | accès à Office 365, y compris le mail et l'outil Teams. Comporte 1To de stockage personnel dans OneDrive. Login via [https://www.office.com/](https://www.office.com/) |
+|  **Compte Eudvaud.ch** | accès à Office 365, y compris le mail et l'outil Teams. Comporte 1To de stockage personnel dans OneDrive. Login via [https://www.office.com/](https://www.office.com/). Accès au Wifi, au [système d'impression PaperCut](https://eracom.ch/faq/printers/), au stockage Fileserver/Videoserver. |
 |  **Compte IAM** | accès au portail IAM, applications pour les collaborateurs-trices de l’Etat de Vaud. Utilisé pour la saisie des absences via Login via: [https://www.portail.vd.ch/iam/accueil/](https://www.portail.vd.ch/iam/accueil/). Donne accès à : Lagapep (saisie des absences, et des notes en fin de semestre), et Libre-service RH (certificat de salaire, bulletins de paie). |
 
 ### Informatique, réseau
