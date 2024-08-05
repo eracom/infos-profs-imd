@@ -64,4 +64,4 @@ En Suisse alémanique:
 
 1. À Bâle ([Schule für Gestaltung Basel](https://www.sfgbasel.ch/)), formation duale.
 2. À Berne ([Schule für Gestaltung Bern und Biel](https://sfgb-b.ch/bildungsangebote/berufsfachschule/interactive-media-designer)), formation duale.
-3. À Saint-Gall ([GBSSG](https://www.gbssg.ch/gestaltung/berufliche-grundbildung/interactive-media-designerin-efz.html)), formation duale.
+3. À Saint-Gall ([GBSSG](https://www.gbssg.ch/gestaltung/berufliche-grundbildung/interactive-media-designerin-efz.html)), formation duale et [Ecole supérieure](https://www.gbssg.ch/weiterbildung/design/interactive-media-design-hf.html).
