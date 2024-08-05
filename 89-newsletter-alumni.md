@@ -6,7 +6,7 @@ permalink: newsletters.html
 
 ## Newsletter Typo Expo
 
-La newsletter "Typo Expo" est un projet lancé en automne 2022 avec les classes ID421 et ID321, à l'occasion du lancement de la nouvelle typothèque de l'Eracom. Le projet sera relancé en fin 2023 avec les classes de 1re année.
+La newsletter "Typo Expo" est un projet lancé en automne 2022 avec les classes ID421 et ID321, à l'occasion du lancement de la nouvelle typothèque de l'Eracom. Le projet a été relancé en 2023 avec les classes de 1re année ID431 et ID331.
 
 Page d'inscription: [https://eracom-pedagogique.ch/typo-expo/](https://eracom-pedagogique.ch/typo-expo/)
 
