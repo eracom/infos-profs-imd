@@ -70,7 +70,7 @@ Pour le personnel enseignant, trois comptes sont utilisés:
 
 Service informatique: salle 406  
 FAQ informatique: [https://eracom.ch/faq/](https://eracom.ch/faq/)   
-Serveurs de fichiers locaux de l’école: FileServer, VideoServer.
+Serveurs de fichiers locaux de l’école: FileServer, VideoServer.  
 Partage de fichiers en ligne : plateforme Office365/OneDrive
 
 Autres outils en ligne:  
