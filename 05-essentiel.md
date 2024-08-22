@@ -70,10 +70,10 @@ Pour le personnel enseignant, trois comptes sont utilisés:
 
 Service informatique: salle 406  
 FAQ informatique: [https://eracom.ch/faq/](https://eracom.ch/faq/)   
-Serveur de fichiers local de l’école (Zephyr): [smb://zephyr](smb://zephyr)  
+Serveurs de fichiers locaux de l’école: FileServer, VideoServer.
 Partage de fichiers en ligne : plateforme Office365/OneDrive
 
-Outils en ligne:  
+Autres outils en ligne:  
 Github: [https://github.com/eracom](https://github.com/eracom)  
 Compte Vimeo: [https://vimeo.com/eracom](https://vimeo.com/eracom)  
 
