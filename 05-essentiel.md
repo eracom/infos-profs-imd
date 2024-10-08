@@ -80,8 +80,7 @@ Compte Vimeo: [https://vimeo.com/eracom](https://vimeo.com/eracom)
 
 ### Impressions
 
-Des imprimantes noir-blanc se situent à tous les étages (système Follow-Me).  
-Des imprimantes couleur se situent au 3e et 4e.  
+Des imprimantes couleur se situent à tous les étages (système Follow-Me).  
 Choix de papier spéciaux: un catalogue d’échantillons est disponible au secrétariat.  
 Pour grandes quantités: au rez, salle 004, à côté de la salle des maîtres.  
 
