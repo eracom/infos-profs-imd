@@ -7,7 +7,7 @@ Ce micro-site rassemble des informations pour les enseignant-es de filière IMD.
 - Extranet pour enseignants: [eracom.ch/extranet/](https://eracom.ch/extranet/)
 - Site Sharepoint de l'établissement : [https://eduvaud.sharepoint.com/sites/ERACOM/](https://eduvaud.sharepoint.com/sites/ERACOM/)
 - Règlement interne: [abrégé des règles](https://eracom.ch/wp/wp-content/uploads/2023/12/Abrege_Regles_ERACOM-23_24_WEB.pdf)
-- [Infos pour élèves filière ID](https://eracom.ch/informations-eleves-id/)
+- [Infos pour élèves filière ID](https://eracom.ch/formations/informations-eleves-id/)
 
 ## L'essentiel pour personnes rejoignant l'équipe enseignante
 
