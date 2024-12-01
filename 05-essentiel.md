@@ -49,7 +49,7 @@ Avec les élèves: email et la plateforme Teams.
 **Économat** (salle 208). Ouvert uniquement durant la pause du matin, 9h45 – 10h15.  
 **Salle du corps enseignant** (rez, 006): machines à café, frigo, micro-ondes.  
 **Salle de travail enseignants** (filières ID, GR): 4e étage (salle 403).  
-**Bibliothèque:** se trouve à l’Epsic, au rez. Voir [Livres IMD](https://code.eracom-pedagogique.ch/livres-imd/) 
+**Bibliothèque:** se trouve à l’Epsic, au rez. Voir [Livres IMD](https://code.eracom-pedagogique.ch/livres-imd/)  
 **Fablab:** pour accéder à des imprimantes 3D, découpeuses laser: le Fablab HEP Vaud est à proximité de l’Eracom (Rue de Sébeillon 1).
 
 **Service santé, médiation** (salle 102)
