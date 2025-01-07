@@ -6,10 +6,10 @@ title: Logiciels
 Les principaux logiciels utilisés dans l'enseignement en filière ID à l'Eracom:
 
 
-- **Production audiovisuelle** : Adobe Premiere / After Effects / Audition. (option: DaVinci Resolve)
+- **Production audiovisuelle** : Adobe Premiere / After Effects / Audition (option: DaVinci Resolve)
 - **3D** : Blender, Cinema 4D
 - **Web et App design** : Figma
-- **CMS** : WordPress
+- **CMS** : WordPress, Readymag
 - **Programmation** : VS Code
 - **Création graphique** : Adobe Photoshop / Illustrator / InDesign
 
