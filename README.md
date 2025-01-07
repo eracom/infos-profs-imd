@@ -5,7 +5,7 @@ Ce micro-site rassemble des informations pour les enseignant-es de filière IMD.
 
 - Site web école:  [eracom.ch](https://eracom.ch/faq/)
 - Extranet pour enseignants: [eracom.ch/extranet/](https://eracom.ch/extranet/)
-- Règlement interne: [abrégé des règles](https://eracom.ch/wp/wp-content/uploads/2023/12/Abrege_Regles_ERACOM-23_24_WEB.pdf)
+- Règlement interne: en révision (cf mail du 7.1.25)
 
 ## L'essentiel pour personnes rejoignant l'équipe enseignante
 
@@ -16,7 +16,7 @@ Ce micro-site rassemble des informations pour les enseignant-es de filière IMD.
 - [Infos pour élèves filière ID](https://eracom.ch/formations/informations-eleves-id/)
 - [Dual et plein-temps](formation-imd.html)
 - [Les cours CIE (classes duales)](cours-cie.html)
-- [Noms des classes, comment les décrypter](noms-de-classes.html)
+- [Noms des classes, comment les décrypter](formation-imd.html#les-noms-des-classes)
 
 ## Plan de formation
 
