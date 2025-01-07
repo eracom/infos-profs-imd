@@ -8,7 +8,7 @@ permalink: essentiel.html
 
 L'Eracom est une école professionnelle du degré secondaire II, délivrant des CFC dans les métiers de la communication. Elle est structurée en quatre domaines. La formation Interactive Media Designer appartient au domaine "Arts appliqués".
 
-Les autres formations comportent: graphisme, métiers de l'imprimé, école supérieure (spécialisation film), etc. – voir [eracom.ch/formations/](https://eracom.ch/formations/)
+Les autres formations comportent: graphisme, métiers de l'imprimé, école supérieure (spécialisation film), etc. – voir [eracom.ch](https://eracom.ch)
 
 ## Fonctions et responsabilités
 
@@ -22,9 +22,9 @@ L’enseignant·e:
 
 Les élèves peuvent suivre trois parcours différents:
 
-- **Dual** (apprentissage en entreprise / 1 à 2 jours en école) : en 4 ans. ID422, 412... 
-- **École de métiers** : en école, en 4 ans. ID421, 411, 401...
-- **FPC** (formation professionnelle condensée): en école, en 3 ans. ID321, 311, 301.
+- **Dual** (apprentissage en entreprise / 1 à 2 jours en école) : en 4 ans. ID442, 432... 
+- **École de métiers** : en école, en 4 ans. ID441, 431, 421...
+- (avant 2025: FPC, formation professionnelle condensée, en école, en 3 ans. ID341, ID331, ID321)
 
 Pour plus de précisions, voir [Formation IMD](formation-imd.html).
 
@@ -64,7 +64,7 @@ Pour le personnel enseignant, trois comptes sont utilisés:
 | Compte  | Usage | 
 |:------ |:------ |
 |  **Compte Eudvaud.ch** | accès à Office 365, y compris le mail et l'outil Teams. Comporte 1To de stockage personnel dans OneDrive. Login via [https://www.office.com/](https://www.office.com/). Accès au Wifi, au [système d'impression PaperCut](https://eracom.ch/faq/printers/), au stockage Fileserver/Videoserver. |
-|  **Compte IAM** | accès au portail IAM, applications pour les collaborateurs-trices de l’Etat de Vaud. Utilisé pour la saisie des absences via Login via: [https://www.portail.vd.ch/iam/accueil/](https://www.portail.vd.ch/iam/accueil/). Donne accès à : Lagapep (saisie des absences, et des notes en fin de semestre), et Libre-service RH (certificat de salaire, bulletins de paie). |
+|  **Compte IAM** | accès au portail IAM, applications pour les collaborateurs-trices de l’Etat de Vaud. Utilisé pour la saisie des absences: [https://www.portail.vd.ch/iam/accueil/](https://www.portail.vd.ch/iam/accueil/). Donne accès à : Lagapep (saisie des absences, et des notes en fin de semestre), et Libre-service RH (certificat de salaire, bulletins de paie). |
 
 ### Informatique, réseau
 
@@ -85,5 +85,3 @@ Choix de papier spéciaux: un catalogue d’échantillons est disponible au secr
 Pour grandes quantités: au rez, salle 004, à côté de la salle des maîtres.  
 
 Pour installer le pilote d’impression Follow-Me / PaperClip, voir la documentation du service informatique: [https://eracom.ch/faq/](https://eracom.ch/faq/)
-
-
