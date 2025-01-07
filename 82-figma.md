@@ -3,7 +3,7 @@ layout: page
 title: Logiciel – Figma
 ---
 
-Figma est un logiciel de conception web qui utilisé notemment dans les cours de design d'interfaces.
+Figma est un logiciel de conception web que nous utilisons notemment dans les cours de design d'interfaces.
 
 ## Accès Education Team pour Figma
 
