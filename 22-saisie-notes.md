@@ -37,4 +37,4 @@ Veillez à **renommer le fichier selon le modèle suivant**. Indiquez **l'acrony
 ### Saisie dans LAGAPEP
 
 Vous pouvez consulter ce tutoriel pour découvrir toutes les fonctionnalités, notamment la saisie des notes:  
-[bit.ly/formation-lagapep](https://bit.ly/formation-lagapep)
+[Lien academie.vd.ch](https://academie.vd.ch/#/workspace/dgep-formation/resources/enseignant)
