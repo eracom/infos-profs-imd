@@ -29,7 +29,7 @@ Veillez à bien renseigner les champs suivants:
 
 ![](img/champs-excel-notes.png)
 
-Veillez à **renommer le fichier selon le modèle suivant**. Vous pouvez abréger le nom du cours par souci de lisibilité, mais indiquez **l'acronyme** (sans le préfixe ID) et votre nom.
+Veillez à **renommer le fichier selon le modèle suivant**. Indiquez **l'acronyme** (sans le préfixe ID) et votre nom. Pas besoin de mettre le nom du cours.
 
 ![](img/Nommage-des-fichiers-2023.png)
 
@@ -37,4 +37,4 @@ Veillez à **renommer le fichier selon le modèle suivant**. Vous pouvez abrége
 ### Saisie dans LAGAPEP
 
 Vous pouvez consulter ce tutoriel pour découvrir toutes les fonctionnalités, notamment la saisie des notes:  
-[bit.ly/formation-lagapep](https://bit.ly/formation-lagapep)
+[Lien academie.vd.ch](https://academie.vd.ch/#/workspace/dgep-formation/resources/enseignant)
