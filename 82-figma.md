@@ -18,11 +18,7 @@ Pour rejoindre une Education Team, vous devrez valider votre statut d'enseignant
 
 ## Team globale de l'Eracom
 
-Nous avons créé une team "eracom" dans Figma. Elle nous sert à collaborer *entre enseignant-es* et d'organiser les fichiers. Elle ne sert PAS au travail avec les élèves.
-
-Voici le lien d'invitation pour rejoindre la team générale Eracom:
-
-[https://www.figma.com/team_invite/redeem/6zKJtA44595eBUDPVSzjZe](https://www.figma.com/team_invite/redeem/6zKJtA44595eBUDPVSzjZe)
+Il existe une team globale "eracom". Elle nous sert à collaborer *entre enseignant-es* et d'organiser les fichiers, et à archiver des travaux. Veuillez ne pas y inviter les élèves.
 
 ## Créer des Teams spécifiques
 
