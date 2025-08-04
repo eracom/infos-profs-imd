@@ -16,10 +16,10 @@ Les contenus des CIE sont définis dans le Plan de formation.
 
 Les matières:
 
-- Semestre 1: CIE Photographie.
-- Semestre 2: CIE Frontend I.
+- Semestre 1: CIE UI/UX.
+- Semestre 2: CIE Photographie.
 - Semestre 3: CIE Vidéo.
 - Semestre 4: CIE 3D/Animation.
-- Semestre 6: CIE Frontend II.
+- Semestre 6: CIE Frontend.
 
 Voir [le plan de formation](https://code.eracom-pedagogique.ch/formation-imd/cursus-dual/?vue=profs) pour plus de détails.
