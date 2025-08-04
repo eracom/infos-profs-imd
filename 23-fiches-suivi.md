@@ -10,6 +10,8 @@ Il est donc important que chaque enseignant·e complète systématiquement ses *
 
 ## Les fiches 
 
-Ces fiches sont saisies - et peuvent être consultées - dans un site dédié: **[Suivi des classes](https://eracom.ch/extranet/id/)**. 
+Ces fiches sont saisies - et peuvent être consultées - dans un site dédié: 
+
+**[eracom.ch/extranet/id/](https://eracom.ch/extranet/id/)**. 
 
 Le login "enseignant" est le même que pour le site Extranet.
