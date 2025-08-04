@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Logiciel – Figma
+permalink: figma.html
 ---
 
 Figma est un logiciel de conception web que nous utilisons notemment dans les cours de design d'interfaces. Nous utilisons des Education Teams, qui ont les mêmes capacités que les Pro Teams (nombre illimité de projets ou fichiers)
