@@ -1,8 +1,8 @@
----
-layout: page
-title: Lexique
-permalink: lexique.html
----
+#---
+#layout: page
+#title: Lexique
+#permalink: lexique.html
+#---
 
 **AP:** Applications professionnelles. Cours pour les élèves plein-temps, qui correspond à l'apprentissage effectué en entreprise chez les duals. Dans ces cours, l'accent est généralement mis sur la réalisation pratique et la pédagogie de projet.
 
