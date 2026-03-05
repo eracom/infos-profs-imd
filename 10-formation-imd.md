@@ -23,16 +23,6 @@ Ces élèves suivent une demi-journée de cours de culture générale (ECG).
 
 Une partie des élèves effectue la [maturité professionnelle intégrée](https://eracom.ch/formation/maturite-professionnelle-integree-arts-visuels-et-arts-appliques/), un jour et demi de cours y est dédié (lundi et mardi).
 
-### 3) Formation professionnelle condensée (FPC)
-
-Formation en école à plein-temps, sur 3 ans au lieu de 4.
-
-Durée: 3 ans.  
-Classes: ID331, ID321, ID311.  
-Ces élèves ont effectué une autre formation préalable (CFC ou maturité).  
-Ces élèves n'ont pas de cours de culture générale (ECG), cela permet de compacter le programme sur 3 années.
-
-
 ## Les noms des classes
 
 L'eracom pratique un système de noms de classes qui permet d'identifier :
@@ -62,6 +52,7 @@ En Suisse romande et au Tessin:
 
 En Suisse alémanique: 
 
-1. À Bâle ([Schule für Gestaltung Basel](https://www.sfgbasel.ch/)), formation duale.
-2. À Berne ([Schule für Gestaltung Bern und Biel](https://sfgb-b.ch/bildungsangebote/berufsfachschule/interactive-media-designer)), formation duale.
-3. À Saint-Gall ([GBSSG](https://www.gbssg.ch/gestaltung/berufliche-grundbildung/interactive-media-designerin-efz.html)), formation duale et [Ecole supérieure](https://www.gbssg.ch/weiterbildung/design/interactive-media-design-hf.html).
+1. Bâle ([Schule für Gestaltung Basel](https://www.sfgbasel.ch/)), formation duale.
+2. Berne ([Schule für Gestaltung Bern und Biel](https://sfgb-b.ch/bildungsangebote/berufsfachschule/interactive-media-designer)), formation duale.
+3. Saint-Gall ([GBSSG](https://www.gbssg.ch/gestaltung/berufliche-grundbildung/interactive-media-designerin-efz.html)), formation duale et [Ecole supérieure](https://www.gbssg.ch/weiterbildung/design/interactive-media-design-hf.html).
+4. Zurich: à venir [dès 2026](https://sfgz.ch/schule/promotion-imd/interactiv-media-designer).
