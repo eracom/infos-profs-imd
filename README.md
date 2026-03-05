@@ -5,7 +5,7 @@ Ce micro-site rassemble des informations pour les enseignant-es de filière IMD.
 
 - Site web école:  [eracom.ch](https://eracom.ch/faq/)
 - Extranet pour enseignants: [eracom.ch/extranet/](https://eracom.ch/extranet/)
-- Règlement interne: en révision (cf mail du 7.1.25)
+- Règlement interne: [lien PDF](https://eracom.ch/wp/documents/ERACOM_R%C3%A8glement_Interne_2025.pdf)
 
 ## L'essentiel pour personnes rejoignant l'équipe enseignante
 
