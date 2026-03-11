@@ -11,6 +11,9 @@ Une sélection de travaux audiovisuels est archivée sur Vimeo.
 Diplômes ID (20 vidéos)  
 [https://vimeo.com/showcase/6829538](https://vimeo.com/showcase/6829538)
 
+Jingles Eracom (3 vidéos)  
+[https://vimeo.com/showcase/12149213](https://vimeo.com/showcase/12149213)
+
 Workshops ID (37 vidéos)  
 [https://vimeo.com/showcase/11951621](https://vimeo.com/showcase/11951621)
 
