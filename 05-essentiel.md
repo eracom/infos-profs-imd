@@ -48,9 +48,9 @@ Avec les élèves: email et la plateforme Teams.
 
 **Économat** (salle 208). Ouvert uniquement durant la pause du matin, 9h45 – 10h15.  
 **Salle du corps enseignant** (rez, 006): machines à café, frigo, micro-ondes.  
-**Salle de travail enseignants** (filières ID, GR): 4e étage (salle 403).  
-**Bibliothèque:** se trouve à l’Epsic, au rez. Voir [Livres IMD](https://code.eracom-pedagogique.ch/livres-imd/)  
-**Fablab:** pour accéder à des imprimantes 3D, découpeuses laser: le Fablab HEP Vaud est à proximité de l’Eracom (Rue de Sébeillon 1).
+**Salles de travail enseignants** (filières ID, GR): salle 209 (2e étage) et salle 403 (4e étage).  
+**Bibliothèque:** se trouve à l’Epsic, au rez. Voir [Livres IMD](https://code.eracom-pedagogique.ch/livres-imd/).  
+**Fablab:** pour accéder à des imprimantes 3D, découpeuses laser: le [Fablearn HEP Vaud](https://fablearn.hepl.ch/) est à proximité de l’Eracom (Rue de Sébeillon 1).
 
 **Service santé, médiation** (salle 102)
 Nous avons une équipe de médiation scolaire, pour soutenir les élèves en difficulté. Le service de médiation offre un accompagnement aux élèves en difficulté, en rupture de liens ou vivant des conflits. Il peut aussi être sollicité par un-e enseignant-e en proie à des difficultés relationnelles avec un-e élève ou un groupe d’élèves.  
