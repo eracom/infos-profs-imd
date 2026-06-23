@@ -8,14 +8,17 @@ Une sélection de travaux audiovisuels est archivée sur Vimeo.
 
 ## Playlists
 
-Diplômes ID (20 vidéos)  
+**Diplômes ID** (20 vidéos)  
 [https://vimeo.com/showcase/6829538](https://vimeo.com/showcase/6829538)
 
-Jingles Eracom (3 vidéos)  
+**Capsules pédagogiques** (4 vidéos)  
+[https://vimeo.com/showcase/12299136](https://vimeo.com/showcase/12299136)
+
+**Jingles Eracom** (3 vidéos)  
 [https://vimeo.com/showcase/12149213](https://vimeo.com/showcase/12149213)  
 [Lien Sharepoint](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/IgBH8XqVoSsQT5gCtDTqwXfnAX9d8jaE4t4OFUT9Z2MzFmQ) 
 
-Workshops ID (37 vidéos)  
+**Workshops ID** (37 vidéos)  
 [https://vimeo.com/showcase/11951621](https://vimeo.com/showcase/11951621)
 
 Projets ID Divers  
