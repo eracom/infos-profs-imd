@@ -8,7 +8,7 @@ Une sélection de travaux audiovisuels est archivée sur Vimeo.
 
 ## Playlists
 
-**Diplômes ID** (20 vidéos)  
+**Diplômes ID** (36 vidéos)  
 [https://vimeo.com/showcase/6829538](https://vimeo.com/showcase/6829538)
 
 **Capsules pédagogiques** (4 vidéos)  
