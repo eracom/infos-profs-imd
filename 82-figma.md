@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Logiciel – Figma
+title: Figma
 permalink: figma.html
 ---
 
