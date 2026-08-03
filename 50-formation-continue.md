@@ -13,7 +13,7 @@ La formation continue des enseignants peut prendre diverses formes, notamment:
 
 ### Demande de formation
 
-La [procédure de demande de formation continue](https://eracom.ch/extranet/assets/uploads/2018/04/ERACOM_Proce%CC%81dure_DemandeFormationContinue.pdf) se trouve dans l'Extranet, ainsi que le [Formulaire de demande de formation](https://eracom.ch/extranet/assets/uploads/2020/09/Formulaire-de-demande-de-formation-continue-07.2020.docx).
+La procédure de demande de formation continue est [documentée dans Extranet](https://eracom.ch/extranet/rh-formation-continue/).
 
 ### Formations qui ont été organisées
 
