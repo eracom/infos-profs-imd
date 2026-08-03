@@ -14,7 +14,7 @@ Le lien pour se connecter à Lagap-EP:
 
 ## Procéder à la saisie des absences
 
-Il est recommandé de faire la saisie *le jour même*, idéalement en tout début de cours. Toutefois, vous pouvez faire des modifications a posterioi.
+Il est recommandé de faire la saisie *le jour même*, idéalement en tout début de cours. Toutefois, vous pouvez faire des correctifs *a posteriori*.
 
 **En résumé:**
 
