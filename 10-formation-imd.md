@@ -11,17 +11,16 @@ La formation IMD à l'eracom peut s'effectuer en deux modes différents:
 ### 1) Formation duale
 
 Durée: 4 ans.  
-Classes: ID452, 442, 432, 422.  
+Classes: ID462, 452, 442, 432.  
 Dans le système dual, les élèves signent un contrat d’apprentissage avec une entreprise formatrice. Ils suivent les cours en école 1 à 2 jours par semaine (2 jours les 2 premières années, ensuite 1 jour). Ils ont également des [cours interentreprise (CIE)](cours-cie.html), 5 fois durant la formation.    
 
 ### 2) Formation en école de métiers (plein-temps)
 
 Durée: 4 ans.  
-Classes: ID450 / 451, 441, 431, 421.  
-Une partie des élèves a effectué auparavant une année de préapprentissage (à l'Eracom, parfois au CEPV ou Eikon).  
+Classes: ID460 & 461, 450 & 451, 441, 431.  
 Ces élèves suivent une demi-journée de cours de culture générale (ECG).
 
-Une partie des élèves effectue la [maturité professionnelle intégrée](https://eracom.ch/formation/maturite-professionnelle-integree-arts-visuels-et-arts-appliques/), un jour et demi de cours y est dédié (lundi et mardi).
+Une partie des élèves effectue la [maturité professionnelle intégrée](https://eracom.ch/formation/maturite-professionnelle-integree-arts-visuels-et-arts-appliques/), un jour et demi de cours y est dédié (généralement lundi et mardi).
 
 ## Les noms des classes
 
@@ -39,7 +38,7 @@ Explication illustrée:
 
 ## La formation IMD en Suisse
 
-La formation IMD est donnée dans neuf écoles en Suisse:
+La formation IMD est donnée dans dix écoles en Suisse:
 
 En Suisse romande et au Tessin:
 
@@ -55,4 +54,4 @@ En Suisse alémanique:
 1. Bâle ([Schule für Gestaltung Basel](https://www.sfgbasel.ch/)), formation duale.
 2. Berne ([Schule für Gestaltung Bern und Biel](https://sfgb-b.ch/bildungsangebote/berufsfachschule/interactive-media-designer)), formation duale.
 3. Saint-Gall ([GBSSG](https://www.gbssg.ch/gestaltung/berufliche-grundbildung/interactive-media-designerin-efz.html)), formation duale et [Ecole supérieure](https://www.gbssg.ch/weiterbildung/design/interactive-media-design-hf.html).
-4. Zurich: à venir [dès 2026](https://sfgz.ch/schule/promotion-imd/interactiv-media-designer).
+4. Zurich: [SfGZ](https://sfgz.ch/schule/promotion-imd/interactiv-media-designer) (depuis 2026).
