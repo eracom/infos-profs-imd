@@ -17,7 +17,7 @@ Pour rejoindre une Education Team, vous devrez valider votre statut d'enseignant
 Lien pour valider: [figma.com/education/apply](https://www.figma.com/education/apply)
 
 - Il est important d'utiliser l'adresse **@eduvaud.ch**, Figma n'autorise pas les adresses de type Gmail dans les Team Education (ou uniquement avec la capacité "can view").
-- Comme type d'institution, choisir **High school**.
+- Comme type d'institution, choisir **High school**. ("Lycée"... ne pas choisir Ecole Supérieure/Higher Education)
 
 ## Team globale de l'Eracom
 
