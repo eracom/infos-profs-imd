@@ -14,6 +14,9 @@ Une sélection de travaux audiovisuels est archivée sur Vimeo.
 **Capsules pédagogiques** (4 vidéos)  
 [https://vimeo.com/showcase/12299136](https://vimeo.com/showcase/12299136)
 
+**Tutoriels** (4 vidéos)
+[https://vimeo.com/showcase/12486955](https://vimeo.com/showcase/12486955)
+
 **Jingles Eracom** (3 vidéos)  
 [https://vimeo.com/showcase/12149213](https://vimeo.com/showcase/12149213)  
 [Lien Sharepoint](https://eduvaud-my.sharepoint.com/:f:/g/personal/pr51kln_eduvaud_ch/IgBH8XqVoSsQT5gCtDTqwXfnAX9d8jaE4t4OFUT9Z2MzFmQ) 
