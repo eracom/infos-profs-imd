@@ -8,6 +8,13 @@ Une sélection de travaux audiovisuels est archivée sur Vimeo.
 
 ## Playlists
 
+**Playlist Salon des métiers 2026**  
+[https://vimeo.com/showcase/12496351](https://vimeo.com/showcase/12496351) 
+
+**Playlist des Portes Ouvertes 2025**  
+[https://vimeo.com/showcase/12506689](https://vimeo.com/showcase/12506689)  
+Voir [liste des crédits](https://github.com/eracom/portes-ouvertes-2025/blob/main/assets/pdf/PO25-Salle311-Projections.pdf)
+
 **Diplômes ID** (36 vidéos)  
 [https://vimeo.com/showcase/6829538](https://vimeo.com/showcase/6829538)
 
